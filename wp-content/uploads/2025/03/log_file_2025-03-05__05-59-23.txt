@@ -1,0 +1,175 @@
+
+---Downloaded files---
+The import files for: EduVibe LearnPress Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost/vashi1
+Data file = C:\xampp\htdocs\vashi1/wp-content/themes/eduvibe/lib/demo-data/demo-content.xml
+Widget file = C:\xampp\htdocs\vashi1/wp-content/themes/eduvibe/lib/demo-data/widgets.wie
+Customizer file = C:\xampp\htdocs\vashi1/wp-content/themes/eduvibe/lib/demo-data/customizer.dat
+Redux files:
+eduvibe_theme_options -> C:\xampp\htdocs\vashi1/wp-content/themes/eduvibe/lib/demo-data/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "course-30" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Search - Search Here - Imported
+Categories - Categories - Imported
+EduVibe Recent Post - Latest Post - Imported
+Image - No Title - Imported
+Tag Cloud - Popular Tags - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: eduvibe_theme_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

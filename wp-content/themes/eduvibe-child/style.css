@@ -1,0 +1,47 @@
+/*
+Theme Name:   EduVibe Child
+Theme URI:    https://eduvibe.devsvibe.com/main/
+Author:       DevsVibe
+Author URI:   https://themeforest.net/user/devsvibe/portfolio
+Description:  EduVibe Child Theme For LMS and Education Purpose.
+Version:      1.0.0
+Template:     eduvibe
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain:  eduvibe-child
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+* If you are not familiar with Child Themes, you can read about it here:
+* http://codex.wordpress.org/Child_Themes
+*/
+
+.eduvibe-single-course.course-style-1 .inner .thumbnail .wishlist-top-right{
+	display:none;
+}
+.price-list.price-style-03,
+.edu-rating.rating-default{
+	display:none;
+}
+/* .eduvibe-single-course.course-style-1 .inner .thumbnail .top-position.left-top{
+	position:unset;
+} */
+/* .eduvibe-course-one-slider .content .edu-meta{
+	display:none;	
+}
+.card-bottom .edu-meta{
+	display:block;
+} */
+.sec_Inspirations .infobox-content h2{
+	bottom: 0;
+    position: absolute;
+    font-size: 20px;
+    line-height: 28px;
+	color: #fff !important;
+}
+.sec_Inspirations .infobox-content {
+	height: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+	background: linear-gradient(rgba(75, 66, 63, 0) 50.92%, rgba(54, 44, 40, 0.7) 74.42%);
+}

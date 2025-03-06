@@ -1,0 +1,3383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-06-16 18:48+0600\n"
+"PO-Revision-Date: 2023-06-16 18:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: inc/Traits/Button.php:21 inc/Traits/Button.php:29
+msgid "Button"
+msgstr ""
+
+#: inc/Traits/Button.php:57 widgets/animation.php:1013
+#: widgets/animation.php:1143 widgets/animation.php:1337 widgets/button.php:412
+#: widgets/contact-form-7.php:171 widgets/countdown.php:282
+#: widgets/countdown.php:533 widgets/counterup.php:244
+#: widgets/counterup.php:300 widgets/counterup.php:356
+#: widgets/image-icon-box.php:349 widgets/image-icon-box.php:487
+#: widgets/mailchimp.php:512 widgets/mailchimp.php:896 widgets/nav-menu.php:307
+#: widgets/nav-menu.php:459 widgets/site-logo.php:540
+#: widgets/social-icons.php:260 widgets/social-icons.php:536
+msgid "Padding"
+msgstr ""
+
+#: inc/Traits/Button.php:69 widgets/animated-image.php:137
+#: widgets/animated-text.php:184 widgets/animation.php:426
+#: widgets/button.php:361 widgets/copyright.php:131 widgets/counterup.php:175
+#: widgets/mailchimp.php:836 widgets/nav-menu.php:184
+#: widgets/section-title.php:141 widgets/site-logo.php:184
+#: widgets/social-icons.php:409 widgets/tabs.php:219 widgets/tabs.php:247
+#: widgets/video-popup.php:213
+msgid "Alignment"
+msgstr ""
+
+#: inc/Traits/Button.php:74 widgets/animated-image.php:105
+#: widgets/animated-image.php:106 widgets/animated-image.php:141
+#: widgets/animated-text.php:188 widgets/animation.php:430
+#: widgets/button.php:365 widgets/copyright.php:135 widgets/counterup.php:182
+#: widgets/courses.php:313 widgets/gallery-filter.php:338
+#: widgets/image-change-on-hover.php:168 widgets/image-icon-box.php:201
+#: widgets/mailchimp.php:384 widgets/mailchimp.php:417
+#: widgets/mailchimp.php:846 widgets/nav-menu.php:188 widgets/nav-menu.php:267
+#: widgets/section-title.php:148 widgets/site-logo.php:189
+#: widgets/social-icons.php:414 widgets/tabs.php:223 widgets/tabs.php:251
+#: widgets/tabs.php:297 widgets/tabs.php:298 widgets/video-popup.php:217
+msgid "Left"
+msgstr ""
+
+#: inc/Traits/Button.php:78 widgets/animated-image.php:145
+#: widgets/animated-text.php:192 widgets/animation.php:434
+#: widgets/button.php:369 widgets/copyright.php:139 widgets/countdown.php:325
+#: widgets/counterup.php:186 widgets/courses.php:317
+#: widgets/gallery-filter.php:342 widgets/mailchimp.php:388
+#: widgets/mailchimp.php:421 widgets/mailchimp.php:850 widgets/nav-menu.php:192
+#: widgets/nav-menu.php:271 widgets/section-title.php:152
+#: widgets/site-logo.php:193 widgets/social-icons.php:418 widgets/tabs.php:227
+#: widgets/tabs.php:255 widgets/video-popup.php:221
+msgid "Center"
+msgstr ""
+
+#: inc/Traits/Button.php:82 widgets/animated-image.php:105
+#: widgets/animated-image.php:106 widgets/animated-image.php:149
+#: widgets/animated-text.php:196 widgets/animation.php:438
+#: widgets/button.php:373 widgets/copyright.php:143 widgets/counterup.php:190
+#: widgets/courses.php:321 widgets/gallery-filter.php:346
+#: widgets/image-change-on-hover.php:176 widgets/image-icon-box.php:209
+#: widgets/mailchimp.php:392 widgets/mailchimp.php:425
+#: widgets/mailchimp.php:854 widgets/nav-menu.php:196 widgets/nav-menu.php:275
+#: widgets/section-title.php:156 widgets/site-logo.php:197
+#: widgets/social-icons.php:422 widgets/tabs.php:231 widgets/tabs.php:259
+#: widgets/tabs.php:297 widgets/tabs.php:298 widgets/video-popup.php:225
+msgid "Right"
+msgstr ""
+
+#: inc/Traits/Button.php:95 widgets/testimonial-4.php:256
+#: widgets/testimonial-4.php:296
+msgid "Bottom Spacing"
+msgstr ""
+
+#: inc/Traits/Button.php:112 widgets/button.php:464 widgets/button.php:585
+#: widgets/mailchimp.php:584 widgets/mailchimp.php:939 widgets/nav-menu.php:332
+#: widgets/nav-menu.php:482 widgets/site-logo.php:393
+#: widgets/social-icons.php:332
+msgid "Normal"
+msgstr ""
+
+#: inc/Traits/Button.php:117 inc/Traits/Button.php:171
+#: widgets/animated-image.php:313 widgets/animated-text.php:379
+#: widgets/animated-text.php:411 widgets/animated-text.php:459
+#: widgets/animated-text.php:539 widgets/animation.php:161
+#: widgets/animation.php:1101 widgets/animation.php:1217
+#: widgets/animation.php:1242 widgets/button.php:469 widgets/button.php:511
+#: widgets/button.php:590 widgets/button.php:632 widgets/contact-form-7.php:219
+#: widgets/copyright.php:164 widgets/countdown.php:440
+#: widgets/countdown.php:492 widgets/countdown.php:626
+#: widgets/counterup.php:221 widgets/counterup.php:277
+#: widgets/counterup.php:333 widgets/footer-menu.php:213
+#: widgets/footer-menu.php:224 widgets/image-icon-box.php:323
+#: widgets/image-icon-box.php:609 widgets/image-icon-box.php:667
+#: widgets/mailchimp.php:753 widgets/mailchimp.php:1054
+#: widgets/mailchimp.php:1082 widgets/mailchimp.php:1110
+#: widgets/nav-menu.php:337 widgets/nav-menu.php:352 widgets/nav-menu.php:487
+#: widgets/nav-menu.php:513 widgets/section-title.php:190
+#: widgets/section-title.php:223 widgets/section-title.php:266
+#: widgets/social-icons.php:214 widgets/social-icons.php:337
+#: widgets/testimonial-4.php:245 widgets/testimonial-4.php:285
+#: widgets/testimonial-4.php:325 widgets/video-popup.php:441
+#: widgets/video-popup.php:522
+msgid "Color"
+msgstr ""
+
+#: inc/Traits/Button.php:128 inc/Traits/Button.php:182
+#: widgets/animation.php:1113 widgets/button.php:480 widgets/button.php:522
+#: widgets/button.php:601 widgets/button.php:643 widgets/contact-form-7.php:160
+#: widgets/countdown.php:514 widgets/course-category.php:211
+#: widgets/image-icon-box.php:335 widgets/image-icon-box.php:473
+#: widgets/mailchimp.php:501 widgets/mailchimp.php:955
+#: widgets/mailchimp.php:997 widgets/nav-menu.php:498 widgets/nav-menu.php:524
+#: widgets/service-1.php:281 widgets/site-logo.php:352
+#: widgets/site-logo.php:513 widgets/social-icons.php:226
+#: widgets/social-icons.php:350 widgets/video-popup.php:453
+msgid "Background Color"
+msgstr ""
+
+#: inc/Traits/Button.php:147 inc/Traits/Button.php:201
+#: widgets/animated-image.php:272 widgets/animation.php:1045
+#: widgets/animation.php:1183 widgets/animation.php:1377 widgets/button.php:453
+#: widgets/button.php:574 widgets/contact-form-7.php:191
+#: widgets/countdown.php:301 widgets/countdown.php:557
+#: widgets/image-icon-box.php:375 widgets/image-icon-box.php:513
+#: widgets/mailchimp.php:557 widgets/mailchimp.php:920 widgets/nav-menu.php:404
+#: widgets/nav-menu.php:471 widgets/site-logo.php:371
+#: widgets/social-icons.php:547 widgets/video-popup.php:342
+#: widgets/video-popup.php:473
+msgid "Border Radius"
+msgstr ""
+
+#: inc/Traits/Button.php:166 widgets/button.php:506 widgets/button.php:627
+#: widgets/mailchimp.php:981 widgets/nav-menu.php:347 widgets/nav-menu.php:508
+#: widgets/site-logo.php:428 widgets/social-icons.php:369
+msgid "Hover"
+msgstr ""
+
+#: inc/Traits/Button.php:221 widgets/site-logo.php:476
+#: widgets/social-icons.php:558
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/Traits/Grid.php:17 inc/Traits/Grid.php:24
+msgid "Grid Settings"
+msgstr ""
+
+#: inc/Traits/Grid.php:35 inc/Traits/Slider.php:35
+msgid "Desktop Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:39 inc/Traits/Grid.php:55 inc/Traits/Grid.php:72
+msgid "1 Column"
+msgstr ""
+
+#: inc/Traits/Grid.php:40 inc/Traits/Grid.php:56 inc/Traits/Grid.php:73
+msgid "2 Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:41 inc/Traits/Grid.php:57 inc/Traits/Grid.php:74
+msgid "3 Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:42 inc/Traits/Grid.php:58 inc/Traits/Grid.php:75
+msgid "4 Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:43 inc/Traits/Grid.php:59 inc/Traits/Grid.php:76
+msgid "6 Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:51 inc/Traits/Slider.php:54
+msgid "Tablet Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:61
+msgid "Number of columns in tablet( from 992 px )."
+msgstr ""
+
+#: inc/Traits/Grid.php:68 inc/Traits/Slider.php:73
+msgid "Mobile Columns"
+msgstr ""
+
+#: inc/Traits/Grid.php:78
+msgid "Number of columns in mobile( works between 768 to 576 px )."
+msgstr ""
+
+#: inc/Traits/Posts.php:30 inc/Traits/Posts.php:37 inc/Traits/Taxonomy.php:18
+#: inc/Traits/Taxonomy.php:25 inc/Traits/Users.php:16 inc/Traits/Users.php:23
+msgid "Query Settings"
+msgstr ""
+
+#: inc/Traits/Posts.php:48
+msgid "Number Of Posts"
+msgstr ""
+
+#: inc/Traits/Posts.php:50
+msgid ""
+"Number of posts to show. Default 6. If you want to show all the posts then "
+"put <b>-1</b>"
+msgstr ""
+
+#: inc/Traits/Posts.php:66 inc/Traits/Posts.php:68 inc/Traits/Taxonomy.php:89
+#: inc/Traits/Users.php:71 inc/Traits/Users.php:73 widgets/post-2.php:212
+#: widgets/post-2.php:214
+msgid "Order"
+msgstr ""
+
+#: inc/Traits/Posts.php:70 inc/Traits/Taxonomy.php:92 inc/Traits/Users.php:75
+#: widgets/post-2.php:216
+msgid "Ascending"
+msgstr ""
+
+#: inc/Traits/Posts.php:71 inc/Traits/Taxonomy.php:93 inc/Traits/Users.php:76
+#: widgets/post-2.php:217
+msgid "Descending"
+msgstr ""
+
+#: inc/Traits/Posts.php:80 inc/Traits/Taxonomy.php:72 inc/Traits/Users.php:85
+#: widgets/post-2.php:226
+msgid "Order by"
+msgstr ""
+
+#: inc/Traits/Posts.php:83 inc/Traits/Users.php:89 widgets/post-2.php:229
+msgid "No order"
+msgstr ""
+
+#: inc/Traits/Posts.php:84 widgets/post-2.php:230
+msgid "Post ID"
+msgstr ""
+
+#: inc/Traits/Posts.php:85 widgets/post-2.php:231
+msgid "Author"
+msgstr ""
+
+#: inc/Traits/Posts.php:86 widgets/accordion.php:119
+#: widgets/contact-info.php:170 widgets/countdown.php:476
+#: widgets/feature-1.php:167 widgets/gallery-filter.php:160
+#: widgets/gallery-filter.php:287 widgets/image-icon-box.php:165
+#: widgets/image-icon-box.php:589 widgets/post-2.php:232
+#: widgets/section-title.php:123 widgets/section-title.php:204
+#: widgets/service-1.php:167 widgets/service-2.php:167 widgets/tabs.php:130
+#: widgets/tabs.php:211
+msgid "Title"
+msgstr ""
+
+#: inc/Traits/Posts.php:87 inc/Traits/Taxonomy.php:75 widgets/post-2.php:233
+#: widgets/team-1.php:199 widgets/team-2.php:199 widgets/team-3.php:199
+#: widgets/testimonial-1.php:153 widgets/testimonial-2.php:151
+#: widgets/testimonial-3.php:153 widgets/testimonial-4.php:163
+#: widgets/testimonial-4.php:268
+msgid "Name"
+msgstr ""
+
+#: inc/Traits/Posts.php:88 widgets/animation.php:363 widgets/post-2.php:234
+#: widgets/tabs.php:115
+msgid "Type"
+msgstr ""
+
+#: inc/Traits/Posts.php:89 widgets/post-2.php:235
+msgid "Published Date"
+msgstr ""
+
+#: inc/Traits/Posts.php:90 widgets/post-2.php:236
+msgid "Modified Date"
+msgstr ""
+
+#: inc/Traits/Posts.php:91 widgets/post-2.php:237
+msgid "By Parent"
+msgstr ""
+
+#: inc/Traits/Posts.php:92 widgets/post-2.php:238
+msgid "Random Order"
+msgstr ""
+
+#: inc/Traits/Posts.php:93 widgets/post-2.php:239
+msgid "Comment Count"
+msgstr ""
+
+#: inc/Traits/Posts.php:94 widgets/post-2.php:240
+msgid "Relevance"
+msgstr ""
+
+#: inc/Traits/Posts.php:95 widgets/post-2.php:241
+msgid "Menu Order"
+msgstr ""
+
+#: inc/Traits/Posts.php:96 widgets/post-2.php:242
+msgid "Meta Value"
+msgstr ""
+
+#: inc/Traits/Posts.php:97 widgets/post-2.php:243
+msgid "Meta Value Num"
+msgstr ""
+
+#: inc/Traits/Posts.php:98 widgets/post-2.php:244
+msgid "Post In( by include order )"
+msgstr ""
+
+#: inc/Traits/Posts.php:99 widgets/post-2.php:245
+msgid "Post Name In"
+msgstr ""
+
+#: inc/Traits/Posts.php:100 widgets/post-2.php:246
+msgid "post Parent In"
+msgstr ""
+
+#: inc/Traits/Posts.php:108
+msgid "Specific Posts( Include )"
+msgstr ""
+
+#: inc/Traits/Posts.php:113
+msgid "It will show the selected posts only."
+msgstr ""
+
+#: inc/Traits/Posts.php:121
+msgid "Specific Posts( Exclude )"
+msgstr ""
+
+#: inc/Traits/Posts.php:126
+msgid "It will hide the selected posts only."
+msgstr ""
+
+#: inc/Traits/Posts.php:134 widgets/post-2.php:151 widgets/post-2.php:254
+msgid "Only Has Featured Image"
+msgstr ""
+
+#: inc/Traits/Posts.php:136 inc/Traits/Posts.php:150 inc/Traits/Posts.php:164
+#: inc/Traits/Posts.php:218 inc/Traits/Slider.php:141 inc/Traits/Slider.php:165
+#: inc/Traits/Slider.php:180 inc/Traits/Taxonomy.php:103
+#: inc/Traits/Taxonomy.php:116 widgets/animated-image.php:194
+#: widgets/animated-text.php:272 widgets/animated-text.php:284
+#: widgets/animated-text.php:296 widgets/animated-text.php:308
+#: widgets/animated-text.php:336 widgets/animation.php:453
+#: widgets/animation.php:685 widgets/animation.php:719
+#: widgets/animation.php:901 widgets/animation.php:914
+#: widgets/countdown.php:151 widgets/countdown.php:163
+#: widgets/countdown.php:570 widgets/course-category.php:293
+#: widgets/course-category.php:305 widgets/courses.php:179
+#: widgets/courses.php:191 widgets/event-1.php:211 widgets/event-2.php:155
+#: widgets/gallery-filter.php:253 widgets/gallery-filter.php:277
+#: widgets/gallery-filter.php:289 widgets/image-icon-box.php:221
+#: widgets/image-icon-box.php:270 widgets/image-icon-box.php:429
+#: widgets/mailchimp.php:145 widgets/mailchimp.php:160
+#: widgets/mailchimp.php:172 widgets/mailchimp.php:210
+#: widgets/mailchimp.php:233 widgets/mailchimp.php:273 widgets/post-1.php:189
+#: widgets/post-2.php:117 widgets/post-2.php:153 widgets/post-2.php:256
+#: widgets/post-2.php:287 widgets/post-2.php:298 widgets/site-logo.php:122
+#: widgets/site-logo.php:151 widgets/site-logo.php:212 widgets/team-1.php:164
+#: widgets/team-1.php:321 widgets/team-1.php:336 widgets/team-1.php:351
+#: widgets/team-2.php:164 widgets/team-2.php:332 widgets/team-2.php:347
+#: widgets/team-2.php:362 widgets/team-3.php:164 widgets/team-3.php:330
+#: widgets/team-3.php:345 widgets/team-3.php:360 widgets/testimonial-4.php:151
+msgid "Enable"
+msgstr ""
+
+#: inc/Traits/Posts.php:137 inc/Traits/Posts.php:151 inc/Traits/Posts.php:165
+#: inc/Traits/Posts.php:219 inc/Traits/Slider.php:142 inc/Traits/Slider.php:166
+#: inc/Traits/Slider.php:181 inc/Traits/Taxonomy.php:104
+#: inc/Traits/Taxonomy.php:117 widgets/animated-image.php:195
+#: widgets/animated-text.php:273 widgets/animated-text.php:285
+#: widgets/animated-text.php:297 widgets/animated-text.php:309
+#: widgets/animated-text.php:337 widgets/animation.php:454
+#: widgets/animation.php:686 widgets/animation.php:720
+#: widgets/animation.php:902 widgets/animation.php:915
+#: widgets/countdown.php:152 widgets/countdown.php:164
+#: widgets/countdown.php:571 widgets/course-category.php:294
+#: widgets/course-category.php:306 widgets/courses.php:180
+#: widgets/courses.php:192 widgets/event-1.php:212 widgets/event-2.php:156
+#: widgets/gallery-filter.php:254 widgets/gallery-filter.php:278
+#: widgets/gallery-filter.php:290 widgets/image-icon-box.php:222
+#: widgets/image-icon-box.php:271 widgets/image-icon-box.php:430
+#: widgets/mailchimp.php:146 widgets/mailchimp.php:161
+#: widgets/mailchimp.php:173 widgets/mailchimp.php:211
+#: widgets/mailchimp.php:234 widgets/mailchimp.php:274 widgets/post-1.php:190
+#: widgets/post-2.php:118 widgets/post-2.php:154 widgets/post-2.php:257
+#: widgets/post-2.php:288 widgets/post-2.php:299 widgets/site-logo.php:123
+#: widgets/site-logo.php:152 widgets/site-logo.php:213 widgets/team-1.php:165
+#: widgets/team-1.php:322 widgets/team-1.php:337 widgets/team-1.php:352
+#: widgets/team-2.php:165 widgets/team-2.php:333 widgets/team-2.php:348
+#: widgets/team-2.php:363 widgets/team-3.php:165 widgets/team-3.php:331
+#: widgets/team-3.php:346 widgets/team-3.php:361 widgets/testimonial-4.php:152
+msgid "Disable"
+msgstr ""
+
+#: inc/Traits/Posts.php:138 widgets/post-2.php:258
+msgid "Only show posts which has feature image set."
+msgstr ""
+
+#: inc/Traits/Posts.php:149
+msgid "Ignore Sticky Posts?"
+msgstr ""
+
+#: inc/Traits/Posts.php:163
+msgid "Date"
+msgstr ""
+
+#: inc/Traits/Posts.php:177
+msgid "Date Format"
+msgstr ""
+
+#: inc/Traits/Posts.php:180 inc/Traits/Slider_Arrows.php:46
+#: widgets/countdown.php:323 widgets/mailchimp.php:413
+#: widgets/mailchimp.php:842 widgets/site-logo.php:246
+#: widgets/site-logo.php:277 widgets/tabs.php:291
+msgid "Default"
+msgstr ""
+
+#: inc/Traits/Posts.php:181 inc/Traits/Posts.php:203
+msgid "F j, Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:182
+msgid "Y-m-d"
+msgstr ""
+
+#: inc/Traits/Posts.php:183
+msgid "m/d/Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:184
+msgid "d/m/Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:185
+msgid "j M. Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:186
+msgid "l F j, Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:187
+msgid "D M j"
+msgstr ""
+
+#: inc/Traits/Posts.php:188
+msgid "dS M Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:189
+msgid "F Y"
+msgstr ""
+
+#: inc/Traits/Posts.php:190
+msgid "Custom"
+msgstr ""
+
+#: inc/Traits/Posts.php:201
+msgid "Custom Date Format"
+msgstr ""
+
+#: inc/Traits/Posts.php:216
+msgid "Excerpt."
+msgstr ""
+
+#: inc/Traits/Posts.php:228 widgets/courses.php:283
+msgid "Number of Words"
+msgstr ""
+
+#: inc/Traits/Posts.php:231 widgets/courses.php:285
+msgid "Number of excerpt words."
+msgstr ""
+
+#: inc/Traits/Posts.php:241
+msgid "Excerpt End Text"
+msgstr ""
+
+#: inc/Traits/Posts.php:244
+msgid "Content to show at the end of the excerpt. Default: ..."
+msgstr ""
+
+#: inc/Traits/Posts.php:255 inc/Traits/Taxonomy.php:48
+msgid "Include Specific Category"
+msgstr ""
+
+#: inc/Traits/Slider.php:17 inc/Traits/Slider.php:24
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/Traits/Slider.php:47
+msgid "Number of columns. A maximum of "
+msgstr ""
+
+#: inc/Traits/Slider.php:66
+msgid "Number of columns in tablet( less then 992 px ). A maximum of "
+msgstr ""
+
+#: inc/Traits/Slider.php:85
+msgid "Number of columns in mobile( less then 768 px ). A maximum of "
+msgstr ""
+
+#: inc/Traits/Slider.php:92
+msgid "Small Mobile Columns"
+msgstr ""
+
+#: inc/Traits/Slider.php:104
+msgid ""
+"Number of columns in mobile( less then 481 px ). A maximum of 2 items are "
+"allowed."
+msgstr ""
+
+#: inc/Traits/Slider.php:111
+msgid "Slides to Scroll"
+msgstr ""
+
+#: inc/Traits/Slider.php:123
+msgid "Set how many slides are scrolled per swipe. A maximum of "
+msgstr ""
+
+#: inc/Traits/Slider.php:130 widgets/site-logo.php:451
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/Traits/Slider.php:139
+msgid "Autoplay"
+msgstr ""
+
+#: inc/Traits/Slider.php:151
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/Traits/Slider.php:163
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/Traits/Slider.php:178
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/Traits/Slider.php:190 inc/Traits/Slider.php:196
+msgid "Arrows and Dots"
+msgstr ""
+
+#: inc/Traits/Slider.php:194 inc/Traits/Slider_Arrows.php:18
+#: inc/Traits/Slider_Arrows.php:29
+msgid "Arrows"
+msgstr ""
+
+#: inc/Traits/Slider.php:195 inc/Traits/Slider_Dots.php:17
+#: inc/Traits/Slider_Dots.php:28
+msgid "Dots"
+msgstr ""
+
+#: inc/Traits/Slider.php:197 inc/Traits/Taxonomy.php:80
+#: widgets/nav-menu.php:229 widgets/site-logo.php:247
+msgid "None"
+msgstr ""
+
+#: inc/Traits/Slider.php:205
+msgid "Previous Arrow Icon"
+msgstr ""
+
+#: inc/Traits/Slider.php:220
+msgid "Next Arrow Icon"
+msgstr ""
+
+#: inc/Traits/Slider_Arrows.php:42 widgets/image-change-on-hover.php:164
+#: widgets/tabs.php:287
+msgid "Position"
+msgstr ""
+
+#: inc/Traits/Slider_Arrows.php:47
+msgid "Top Right"
+msgstr ""
+
+#: inc/Traits/Slider_Dots.php:41 widgets/mailchimp.php:707
+msgid "Top Spacing"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:36
+msgid "Number of Category to Show."
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:41
+msgid "Default 0. It will show all the category items."
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:59
+msgid "Exclude Specific Category"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:64
+msgid "Either use exclude or include, don't use both together."
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:76
+msgid "ID"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:77
+msgid "Count"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:78
+msgid "Slug"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:79
+msgid "Term Group"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:102 inc/widgets/categories-ld.php:131
+#: inc/widgets/categories-lp.php:131 inc/widgets/categories-tl.php:131
+msgid "Only Top Level Category?"
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:107
+msgid "By enabling this option, only top level category will show."
+msgstr ""
+
+#: inc/Traits/Taxonomy.php:115
+msgid "Empty Category"
+msgstr ""
+
+#: inc/Traits/Users.php:34
+msgid "Image Size"
+msgstr ""
+
+#: inc/Traits/Users.php:53
+msgid "Number Of Instructors"
+msgstr ""
+
+#: inc/Traits/Users.php:55
+msgid "Number of instructors to show. Default -1, it will show all."
+msgstr ""
+
+#: inc/Traits/Users.php:87
+msgid "Orderby"
+msgstr ""
+
+#: inc/Traits/Users.php:90
+msgid "User ID"
+msgstr ""
+
+#: inc/Traits/Users.php:91
+msgid "Display Name"
+msgstr ""
+
+#: inc/Traits/Users.php:92
+msgid "User Name"
+msgstr ""
+
+#: inc/Traits/Users.php:93
+msgid "Include"
+msgstr ""
+
+#: inc/Traits/Users.php:94
+msgid "User Login"
+msgstr ""
+
+#: inc/Traits/Users.php:95
+msgid "User Nicename"
+msgstr ""
+
+#: inc/Traits/Users.php:96
+msgid "User URL"
+msgstr ""
+
+#: inc/Traits/Users.php:97
+msgid "User Registered"
+msgstr ""
+
+#: inc/Traits/Users.php:98
+msgid "Post Count"
+msgstr ""
+
+#: inc/Traits/Users.php:106
+msgid "Specific Instructors( Include )"
+msgstr ""
+
+#: inc/Traits/Users.php:111
+msgid "It will show the selected instructors only."
+msgstr ""
+
+#: inc/Traits/Users.php:119
+msgid "Specific Instructors( Exclude )"
+msgstr ""
+
+#: inc/Traits/Users.php:124
+msgid "It will hide the selected instructors only."
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:20
+msgid "Select a Post"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:21
+msgid "No Post Found. Please, Create one First"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:23 widgets/contact-form-7.php:138
+msgid "Select a Form"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:24
+msgid "No Form Found. Please, Create one First"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:26
+msgid "Select a Course"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:27
+msgid "No Course Found. Please, Create one First"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:29
+msgid "Select an Event"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:30
+msgid "No Event Found. Please, Create one First"
+msgstr ""
+
+#: inc/eduvibe-helper-class.php:115
+msgid "Select a mailChimp Form"
+msgstr ""
+
+#: inc/eduvibe-icons.php:43
+msgid "EduVibe Icons"
+msgstr ""
+
+#: inc/eduvibe-icons.php:64
+msgid "Remix Icons"
+msgstr ""
+
+#: inc/eduvibe-icons.php:87
+msgid "Box Icons"
+msgstr ""
+
+#: inc/eduvibe-icons.php:110
+msgid "Tutor LMS Icons"
+msgstr ""
+
+#: inc/eduvibe-mailchimp-api.php:58
+msgid "Error"
+msgstr ""
+
+#: inc/eduvibe-mailchimp-api.php:60
+msgid "Congratulation, You have subscribed successfully!"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:16
+msgid "EduVibe"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:18
+msgid "Welcome"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:20 inc/post-types/header.php:23
+#: inc/post-types/header.php:29 inc/post-types/header.php:35
+msgid "Headers"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:22 inc/post-types/footer.php:23
+#: inc/post-types/footer.php:29 inc/post-types/footer.php:35
+msgid "Footers"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:24 inc/post-types/event.php:23
+#: inc/post-types/event.php:35
+msgid "Events"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:27 inc/post-types/team.php:23
+#: inc/post-types/team.php:35
+msgid "Teams"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:31
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:42
+msgid "Welcome to EduVibe"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:43
+msgid ""
+"EduVibe is a complete WordPress LMS( Learning Management System ) theme "
+"developed by DevsVibe. DevsVibe is a very young team of developers and "
+"designers. Our goal is ensuring product quality and customer satisfaction, "
+"so we've gathered people who are driven by the passion to create an "
+"excellent product and be a helpful hand to their customers. Please let us "
+"know if you've any query. Our support Engineer will reply to you within 10 "
+"minutes to 8 hours( maximum ). If you need any development related task then "
+"please feel free to let us know. We're ready to get hired and would love to "
+"help you out. If you are interested in Premium WordPress Theme, React and "
+"HTML Template then one of our products may please you. We love what we do "
+"and your review would be a great inspiration for our product development and "
+"enriching feature for you. Thanks..."
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:53
+msgid "Instructor Job"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:54 widgets/team-1.php:262
+#: widgets/team-2.php:262 widgets/team-3.php:262
+msgid "Facebook"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:55 widgets/team-1.php:271
+#: widgets/team-2.php:271 widgets/team-3.php:271
+msgid "Twitter"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:56
+msgid "Pinterest"
+msgstr ""
+
+#: inc/eduvibe-widget-functions.php:57
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/post-types/event.php:24 widgets/event-1.php:154 widgets/event-2.php:111
+msgid "Event"
+msgstr ""
+
+#: inc/post-types/event.php:25 inc/post-types/event.php:26
+msgid "Add New Event"
+msgstr ""
+
+#: inc/post-types/event.php:27
+msgid "Edit Event"
+msgstr ""
+
+#: inc/post-types/event.php:28
+msgid "New Event"
+msgstr ""
+
+#: inc/post-types/event.php:29
+msgid "All Events"
+msgstr ""
+
+#: inc/post-types/event.php:30
+msgid "View Event"
+msgstr ""
+
+#: inc/post-types/event.php:31
+msgid "Search Event"
+msgstr ""
+
+#: inc/post-types/event.php:32
+msgid "No Events found"
+msgstr ""
+
+#: inc/post-types/event.php:33
+msgid "No Events found in Trash"
+msgstr ""
+
+#: inc/post-types/event.php:57 inc/post-types/event.php:64
+msgid "Event Categories"
+msgstr ""
+
+#: inc/post-types/event.php:58
+msgid "Event Category"
+msgstr ""
+
+#: inc/post-types/event.php:59
+msgid "Search Event Categories"
+msgstr ""
+
+#: inc/post-types/event.php:60
+msgid "Edit Event Category"
+msgstr ""
+
+#: inc/post-types/event.php:61
+msgid "Update Event Category"
+msgstr ""
+
+#: inc/post-types/event.php:62
+msgid "Add New Event Category"
+msgstr ""
+
+#: inc/post-types/event.php:63
+msgid "New Event Category"
+msgstr ""
+
+#: inc/post-types/footer.php:24
+msgid "Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:25 inc/post-types/footer.php:26
+msgid "Add New Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:27
+msgid "Edit Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:28
+msgid "New Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:30
+msgid "View Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:31
+msgid "Search Footer"
+msgstr ""
+
+#: inc/post-types/footer.php:32
+msgid "No Footers found"
+msgstr ""
+
+#: inc/post-types/footer.php:33
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: inc/post-types/header.php:24
+msgid "Header"
+msgstr ""
+
+#: inc/post-types/header.php:25 inc/post-types/header.php:26
+msgid "Add New Header"
+msgstr ""
+
+#: inc/post-types/header.php:27
+msgid "Edit Header"
+msgstr ""
+
+#: inc/post-types/header.php:28
+msgid "New Header"
+msgstr ""
+
+#: inc/post-types/header.php:30
+msgid "View Header"
+msgstr ""
+
+#: inc/post-types/header.php:31
+msgid "Search Header"
+msgstr ""
+
+#: inc/post-types/header.php:32
+msgid "No Headers found"
+msgstr ""
+
+#: inc/post-types/header.php:33
+msgid "No Headers found in Trash"
+msgstr ""
+
+#: inc/post-types/team.php:24
+msgid "Team"
+msgstr ""
+
+#: inc/post-types/team.php:25 inc/post-types/team.php:26
+msgid "Add New Team"
+msgstr ""
+
+#: inc/post-types/team.php:27
+msgid "Edit Team"
+msgstr ""
+
+#: inc/post-types/team.php:28
+msgid "New Team"
+msgstr ""
+
+#: inc/post-types/team.php:29
+msgid "All Teams"
+msgstr ""
+
+#: inc/post-types/team.php:30
+msgid "View Team"
+msgstr ""
+
+#: inc/post-types/team.php:31
+msgid "Search Team"
+msgstr ""
+
+#: inc/post-types/team.php:32
+msgid "No Teams found"
+msgstr ""
+
+#: inc/post-types/team.php:33
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: inc/post-types/team.php:57 inc/post-types/team.php:64
+msgid "Team Categories"
+msgstr ""
+
+#: inc/post-types/team.php:58
+msgid "Team Category"
+msgstr ""
+
+#: inc/post-types/team.php:59
+msgid "Search Team Categories"
+msgstr ""
+
+#: inc/post-types/team.php:60
+msgid "Edit Team Category"
+msgstr ""
+
+#: inc/post-types/team.php:61
+msgid "Update Team Category"
+msgstr ""
+
+#: inc/post-types/team.php:62
+msgid "Add New Team Category"
+msgstr ""
+
+#: inc/post-types/team.php:63
+msgid "New Team Category"
+msgstr ""
+
+#: inc/widgets/categories-ld.php:22
+msgid "EduVibe Categories( LearnDash )"
+msgstr ""
+
+#: inc/widgets/categories-ld.php:23
+msgid "EduVibe LearnDash Course Categories"
+msgstr ""
+
+#: inc/widgets/categories-ld.php:136 inc/widgets/categories-lp.php:136
+#: inc/widgets/categories-tl.php:136
+msgid "Hide Empty Cat?"
+msgstr ""
+
+#: inc/widgets/categories-lp.php:22
+msgid "EduVibe Categories( LearnPress )"
+msgstr ""
+
+#: inc/widgets/categories-lp.php:23
+msgid "EduVibe LearnPress Course Categories"
+msgstr ""
+
+#: inc/widgets/categories-tl.php:22
+msgid "EduVibe Categories( Tutor LMS )"
+msgstr ""
+
+#: inc/widgets/categories-tl.php:23
+msgid "EduVibe Tutor LMS Course Categories"
+msgstr ""
+
+#: inc/widgets/courses-ld.php:22
+msgid "EduVibe Courses( LearnDash )"
+msgstr ""
+
+#: inc/widgets/courses-ld.php:23
+msgid "EduVibe LearnDash Course Items"
+msgstr ""
+
+#: inc/widgets/courses-ld.php:86 inc/widgets/courses-lp.php:79
+#: inc/widgets/courses-tl.php:79
+msgid "No course avainable"
+msgstr ""
+
+#: inc/widgets/courses-lp.php:22
+msgid "EduVibe Courses( LearnPress )"
+msgstr ""
+
+#: inc/widgets/courses-lp.php:23
+msgid "EduVibe LearnPress Course Items"
+msgstr ""
+
+#: inc/widgets/courses-tl.php:22
+msgid "EduVibe Courses( Tutor LMS )"
+msgstr ""
+
+#: inc/widgets/courses-tl.php:23
+msgid "EduVibe Tutor LMS Course Items"
+msgstr ""
+
+#: inc/widgets/posts.php:22
+msgid "EduVibe Recent Post"
+msgstr ""
+
+#: inc/widgets/posts.php:23
+msgid "EduVibe Recent Post Items"
+msgstr ""
+
+#: inc/widgets/posts.php:91
+msgid "No post avainable"
+msgstr ""
+
+#: inc/widgets/posts.php:163
+msgid "Disable Sticky Posts:"
+msgstr ""
+
+#: plugin.php:340 widgets/animation.php:663
+msgid "Scale"
+msgstr ""
+
+#: plugin.php:341
+msgid "Fancy"
+msgstr ""
+
+#: plugin.php:342
+msgid "Slide Up"
+msgstr ""
+
+#: plugin.php:343
+msgid "Slide Left"
+msgstr ""
+
+#: plugin.php:344
+msgid "Slide Right"
+msgstr ""
+
+#: plugin.php:345
+msgid "Slide Down"
+msgstr ""
+
+#: widgets/accordion.php:41
+msgid "Accordion"
+msgstr ""
+
+#: widgets/accordion.php:102 widgets/contact-info.php:110
+#: widgets/feature-1.php:112 widgets/service-1.php:112
+#: widgets/service-2.php:112
+msgid "Contents"
+msgstr ""
+
+#: widgets/accordion.php:110
+msgid "Active as Default"
+msgstr ""
+
+#: widgets/accordion.php:122
+msgid "Accordion Title"
+msgstr ""
+
+#: widgets/accordion.php:129 widgets/animated-text.php:117
+#: widgets/content-switcher.php:128 widgets/content-switcher.php:150
+#: widgets/content-switcher.php:181 widgets/content-switcher.php:203
+#: widgets/feature-1.php:120 widgets/image-icon-box.php:541
+#: widgets/section-title.php:106 widgets/service-1.php:120
+#: widgets/service-2.php:120 widgets/social-icons.php:117
+#: widgets/svg-scroll-animation.php:117 widgets/tabs.php:144
+#: widgets/tabs.php:154 widgets/tabs.php:507
+msgid "Content"
+msgstr ""
+
+#: widgets/accordion.php:131 widgets/image-icon-box.php:178
+#: widgets/tabs.php:157
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/animated-image.php:47 widgets/animated-image.php:111
+#: widgets/animation.php:140
+msgid "Animated Image"
+msgstr ""
+
+#: widgets/animated-image.php:118 widgets/animated-image.php:232
+#: widgets/animation.php:158 widgets/animation.php:235
+#: widgets/animation.php:927 widgets/contact-info.php:130
+#: widgets/course-category.php:223 widgets/feature-1.php:129
+#: widgets/feature-1.php:138 widgets/gallery-filter.php:180
+#: widgets/image-change-on-hover.php:105 widgets/image-icon-box.php:127
+#: widgets/image-icon-box.php:403 widgets/logo-grid-carousel.php:143
+#: widgets/logo-grid-carousel.php:235 widgets/service-1.php:129
+#: widgets/service-1.php:138 widgets/service-2.php:129
+#: widgets/service-2.php:138 widgets/team-1.php:233 widgets/team-2.php:233
+#: widgets/team-3.php:233 widgets/testimonial-1.php:183
+#: widgets/testimonial-4.php:193 widgets/testimonial-4.php:336
+#: widgets/video-popup.php:291
+msgid "Image"
+msgstr ""
+
+#: widgets/animated-image.php:162 widgets/animation.php:135
+msgid "Animation Type"
+msgstr ""
+
+#: widgets/animated-image.php:167
+msgid "Animation 1"
+msgstr ""
+
+#: widgets/animated-image.php:175 widgets/animation.php:154
+#: widgets/content-switcher.php:124 widgets/content-switcher.php:177
+#: widgets/tabs.php:140 widgets/team-1.php:149 widgets/team-2.php:149
+#: widgets/team-3.php:149
+msgid "Content Type"
+msgstr ""
+
+#: widgets/animated-image.php:179
+msgid "With 1 Circle"
+msgstr ""
+
+#: widgets/animated-image.php:180
+msgid "With 2 Circle"
+msgstr ""
+
+#: widgets/animated-image.php:181
+msgid "With 3 Circle"
+msgstr ""
+
+#: widgets/animated-image.php:192 widgets/animation.php:451
+msgid "Custom Animation Duration"
+msgstr ""
+
+#: widgets/animated-image.php:207 widgets/animation.php:466
+msgid "Set Animation Duration"
+msgstr ""
+
+#: widgets/animated-image.php:216 widgets/animation.php:475
+msgid "Set custom animation duration in second( unit )."
+msgstr ""
+
+#: widgets/animated-image.php:240 widgets/animation.php:975
+#: widgets/animation.php:1293 widgets/mailchimp.php:468
+#: widgets/video-popup.php:315
+msgid "Height"
+msgstr ""
+
+#: widgets/animated-image.php:252 widgets/animation.php:994
+#: widgets/animation.php:1315 widgets/mailchimp.php:442
+#: widgets/nav-menu.php:434 widgets/site-logo.php:300
+msgid "Width"
+msgstr ""
+
+#: widgets/animated-image.php:301
+msgid "Circle"
+msgstr ""
+
+#: widgets/animated-image.php:324 widgets/animated-text.php:474
+#: widgets/countdown.php:364 widgets/image-icon-box.php:303
+#: widgets/image-icon-box.php:462 widgets/mailchimp.php:695
+#: widgets/nav-menu.php:387 widgets/testimonial-4.php:345
+#: widgets/video-popup.php:419
+msgid "Size"
+msgstr ""
+
+#: widgets/animated-image.php:336
+msgid "Circle Width"
+msgstr ""
+
+#: widgets/animated-image.php:355
+msgid "Circle Height"
+msgstr ""
+
+#: widgets/animated-image.php:374 widgets/tabs.php:303
+msgid "Horizontal Orientation"
+msgstr ""
+
+#: widgets/animated-image.php:395 widgets/animated-image.php:433
+#: widgets/animated-image.php:492 widgets/animated-image.php:529
+#: widgets/tabs.php:327 widgets/tabs.php:366 widgets/tabs.php:429
+#: widgets/tabs.php:467
+msgid "Offset"
+msgstr ""
+
+#: widgets/animated-image.php:471 widgets/tabs.php:405
+msgid "Vertical Orientation"
+msgstr ""
+
+#: widgets/animated-image.php:477 widgets/image-change-on-hover.php:172
+#: widgets/image-icon-box.php:205 widgets/image-icon-box.php:553
+#: widgets/tabs.php:411
+msgid "Top"
+msgstr ""
+
+#: widgets/animated-image.php:481 widgets/image-icon-box.php:555
+#: widgets/tabs.php:415
+msgid "Bottom"
+msgstr ""
+
+#: widgets/animated-text.php:41 widgets/animated-text.php:133
+#: widgets/animated-text.php:392
+msgid "Animated Text"
+msgstr ""
+
+#: widgets/animated-text.php:124 widgets/animated-text.php:360
+msgid "Before Text"
+msgstr ""
+
+#: widgets/animated-text.php:126
+msgid "DevsVibe Brings"
+msgstr ""
+
+#: widgets/animated-text.php:135
+msgid "Enter your animated text with comma separated."
+msgstr ""
+
+#: widgets/animated-text.php:136
+msgid ""
+"<b>Enter animated text with comma separated. Example: EduVibe, LMS, Theme</b>"
+msgstr ""
+
+#: widgets/animated-text.php:137
+msgid "EduVibe, LMS, Theme"
+msgstr ""
+
+#: widgets/animated-text.php:144 widgets/animated-text.php:520
+msgid "After Text"
+msgstr ""
+
+#: widgets/animated-text.php:146
+msgid "For You."
+msgstr ""
+
+#: widgets/animated-text.php:153 widgets/button.php:131 widgets/button.php:248
+#: widgets/feature-1.php:187 widgets/image-change-on-hover.php:154
+#: widgets/image-icon-box.php:187 widgets/site-logo.php:242
+#: widgets/site-logo.php:257 widgets/social-icons.php:195
+msgid "Link"
+msgstr ""
+
+#: widgets/animated-text.php:164
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/animated-text.php:211 widgets/gallery-filter.php:244
+#: widgets/test.php:114
+msgid "Settings"
+msgstr ""
+
+#: widgets/animated-text.php:218
+msgid "Type Speed"
+msgstr ""
+
+#: widgets/animated-text.php:224
+msgid "Type speed in milliseconds."
+msgstr ""
+
+#: widgets/animated-text.php:231
+msgid "Back Type Speed"
+msgstr ""
+
+#: widgets/animated-text.php:237
+msgid "Backspacing speed in milliseconds."
+msgstr ""
+
+#: widgets/animated-text.php:244
+msgid "Start Delay"
+msgstr ""
+
+#: widgets/animated-text.php:250
+msgid "Time before typing starts in milliseconds."
+msgstr ""
+
+#: widgets/animated-text.php:257
+msgid "Back Delay"
+msgstr ""
+
+#: widgets/animated-text.php:263
+msgid "Time before backspacing in milliseconds."
+msgstr ""
+
+#: widgets/animated-text.php:270
+msgid "Loop"
+msgstr ""
+
+#: widgets/animated-text.php:282
+msgid "Smart Backspace"
+msgstr ""
+
+#: widgets/animated-text.php:294
+msgid "Shuffle"
+msgstr ""
+
+#: widgets/animated-text.php:306
+msgid "Fade Out"
+msgstr ""
+
+#: widgets/animated-text.php:318
+msgid "Fade Out Delay"
+msgstr ""
+
+#: widgets/animated-text.php:324
+msgid "Fade out delay in milliseconds."
+msgstr ""
+
+#: widgets/animated-text.php:334 widgets/animated-text.php:446
+msgid "Cursor"
+msgstr ""
+
+#: widgets/animated-text.php:346
+msgid "Character For Cursor"
+msgstr ""
+
+#: widgets/animated-text.php:348
+msgid "|"
+msgstr ""
+
+#: widgets/animated-text.php:423
+msgid "Inner Spacing( Left and Right )"
+msgstr ""
+
+#: widgets/animated-text.php:491 widgets/countdown.php:243
+#: widgets/logo-grid-carousel.php:216 widgets/mailchimp.php:533
+#: widgets/mailchimp.php:669 widgets/mailchimp.php:878
+#: widgets/section-title.php:234 widgets/section-title.php:277
+#: widgets/site-logo.php:551 widgets/social-icons.php:459
+#: widgets/testimonial-4.php:358
+msgid "Spacing"
+msgstr ""
+
+#: widgets/animation.php:51 widgets/animation.php:128
+#: widgets/video-popup.php:241
+msgid "Animation"
+msgstr ""
+
+#: widgets/animation.php:141
+msgid "Animated Color"
+msgstr ""
+
+#: widgets/animation.php:142
+msgid "Infinite Animation"
+msgstr ""
+
+#: widgets/animation.php:143
+msgid "Infinite Animation + Parallax"
+msgstr ""
+
+#: widgets/animation.php:144 widgets/animation.php:746
+msgid "Mouse Track"
+msgstr ""
+
+#: widgets/animation.php:145 widgets/animation.php:778
+msgid "Parallax"
+msgstr ""
+
+#: widgets/animation.php:146 widgets/animation.php:633
+msgid "Tilt"
+msgstr ""
+
+#: widgets/animation.php:159 widgets/animation.php:334
+#: widgets/animation.php:1089 widgets/button.php:149 widgets/button.php:266
+#: widgets/contact-info.php:155 widgets/course-category.php:235
+#: widgets/feature-1.php:130 widgets/feature-1.php:152
+#: widgets/gallery-filter.php:275 widgets/image-icon-box.php:123
+#: widgets/image-icon-box.php:137 widgets/image-icon-box.php:256
+#: widgets/nav-menu.php:250 widgets/service-1.php:130 widgets/service-1.php:152
+#: widgets/service-2.php:130 widgets/service-2.php:152
+#: widgets/social-icons.php:122 widgets/video-popup.php:364
+msgid "Icon"
+msgstr ""
+
+#: widgets/animation.php:160 widgets/animation.php:350
+#: widgets/animation.php:1197 widgets/button.php:120 widgets/button.php:238
+#: widgets/testimonial-4.php:229 widgets/video-popup.php:503
+msgid "Text"
+msgstr ""
+
+#: widgets/animation.php:172
+msgid "Image Type"
+msgstr ""
+
+#: widgets/animation.php:176
+msgid "Custom Image"
+msgstr ""
+
+#: widgets/animation.php:177 widgets/animation.php:214
+msgid "Predefined Image"
+msgstr ""
+
+#: widgets/animation.php:352
+msgid "Your Text"
+msgstr ""
+
+#: widgets/animation.php:367
+msgid "Type 1"
+msgstr ""
+
+#: widgets/animation.php:368
+msgid "Type 2"
+msgstr ""
+
+#: widgets/animation.php:369
+msgid "Type 3"
+msgstr ""
+
+#: widgets/animation.php:370
+msgid "Type 4"
+msgstr ""
+
+#: widgets/animation.php:371
+msgid "Type 5"
+msgstr ""
+
+#: widgets/animation.php:385
+msgid "Infinite Type"
+msgstr ""
+
+#: widgets/animation.php:389
+msgid "Circle Small"
+msgstr ""
+
+#: widgets/animation.php:390
+msgid "Circle Medium"
+msgstr ""
+
+#: widgets/animation.php:391
+msgid "Circle Large"
+msgstr ""
+
+#: widgets/animation.php:392
+msgid "Fade In Out"
+msgstr ""
+
+#: widgets/animation.php:393
+msgid "flipX"
+msgstr ""
+
+#: widgets/animation.php:394
+msgid "flipY"
+msgstr ""
+
+#: widgets/animation.php:395
+msgid "Move Y Very Small"
+msgstr ""
+
+#: widgets/animation.php:396
+msgid "Move Y Very Small ( Reverse )"
+msgstr ""
+
+#: widgets/animation.php:397
+msgid "Move Y Small"
+msgstr ""
+
+#: widgets/animation.php:398
+msgid "Move Y Medium"
+msgstr ""
+
+#: widgets/animation.php:399
+msgid "Move Y Large"
+msgstr ""
+
+#: widgets/animation.php:400
+msgid "Move X Small"
+msgstr ""
+
+#: widgets/animation.php:401
+msgid "Move X Medium"
+msgstr ""
+
+#: widgets/animation.php:402
+msgid "Move X Large"
+msgstr ""
+
+#: widgets/animation.php:403
+msgid "Move XY Small"
+msgstr ""
+
+#: widgets/animation.php:404
+msgid "Move XY Medium"
+msgstr ""
+
+#: widgets/animation.php:405
+msgid "Move XY Large"
+msgstr ""
+
+#: widgets/animation.php:406
+msgid "Move YX Small"
+msgstr ""
+
+#: widgets/animation.php:407
+msgid "Move YX Medium"
+msgstr ""
+
+#: widgets/animation.php:408
+msgid "Move YX Large"
+msgstr ""
+
+#: widgets/animation.php:409
+msgid "Rotate X"
+msgstr ""
+
+#: widgets/animation.php:410
+msgid "Rotate Y"
+msgstr ""
+
+#: widgets/animation.php:411
+msgid "Swing"
+msgstr ""
+
+#: widgets/animation.php:412
+msgid "Zoom In Out"
+msgstr ""
+
+#: widgets/animation.php:489
+msgid "Z Index"
+msgstr ""
+
+#: widgets/animation.php:504
+msgid "Rotation Along"
+msgstr ""
+
+#: widgets/animation.php:508
+msgid "X - axis"
+msgstr ""
+
+#: widgets/animation.php:509
+msgid "Y - axis"
+msgstr ""
+
+#: widgets/animation.php:510
+msgid "Z - axis"
+msgstr ""
+
+#: widgets/animation.php:521
+msgid "Rotation X - axis"
+msgstr ""
+
+#: widgets/animation.php:543
+msgid "Rotation Y - axis"
+msgstr ""
+
+#: widgets/animation.php:565
+msgid "Rotation Z - axis"
+msgstr ""
+
+#: widgets/animation.php:587 widgets/site-logo.php:400
+#: widgets/site-logo.php:434
+msgid "Opacity"
+msgstr ""
+
+#: widgets/animation.php:608
+msgid "Show / Hide"
+msgstr ""
+
+#: widgets/animation.php:609
+msgid "To show or hide in the responsive devices."
+msgstr ""
+
+#: widgets/animation.php:614
+msgid "Show"
+msgstr ""
+
+#: widgets/animation.php:618
+msgid "Hide"
+msgstr ""
+
+#: widgets/animation.php:643
+msgid "maxTilt"
+msgstr ""
+
+#: widgets/animation.php:646
+msgid "Default: 20."
+msgstr ""
+
+#: widgets/animation.php:653
+msgid "Perspective"
+msgstr ""
+
+#: widgets/animation.php:656
+msgid ""
+"Transform perspective, the lower the more extreme the tilt gets. Default: "
+"1000"
+msgstr ""
+
+#: widgets/animation.php:666
+msgid ""
+"On hover it'll be scaled. Here, 1 = 100%, 1.5 = 150%, 2 = 200%, etc..."
+"Default: 1"
+msgstr ""
+
+#: widgets/animation.php:673 widgets/animation.php:756
+msgid "Speed"
+msgstr ""
+
+#: widgets/animation.php:676
+msgid "Speed of the enter/exit transition. Default: 300"
+msgstr ""
+
+#: widgets/animation.php:683
+msgid "Glare"
+msgstr ""
+
+#: widgets/animation.php:695
+msgid "maxGlare"
+msgstr ""
+
+#: widgets/animation.php:707
+msgid "Data range isrom 0 - 1. Default: .3"
+msgstr ""
+
+#: widgets/animation.php:717
+msgid "Reset"
+msgstr ""
+
+#: widgets/animation.php:723
+msgid ""
+"Disabling this option will not reset the tilt element when the user mouse "
+"leaves the element."
+msgstr ""
+
+#: widgets/animation.php:730
+msgid "Enable Axis"
+msgstr ""
+
+#: widgets/animation.php:734
+msgid "Both"
+msgstr ""
+
+#: widgets/animation.php:735 widgets/animation.php:788
+msgid "X"
+msgstr ""
+
+#: widgets/animation.php:736 widgets/animation.php:808
+msgid "Y"
+msgstr ""
+
+#: widgets/animation.php:769
+msgid ""
+"Negative value will work on mouse direction. Positive value will work on "
+"mouse reverse direction."
+msgstr ""
+
+#: widgets/animation.php:790
+msgid "Value of scrolling at horizontal(X) axis. unit: pixels"
+msgstr ""
+
+#: widgets/animation.php:810
+msgid "Value of scrolling at vertical(Y) axis."
+msgstr ""
+
+#: widgets/animation.php:828
+msgid "rotateX"
+msgstr ""
+
+#: widgets/animation.php:830
+msgid "Value of rotation at horizontal(X) axis. unit: degrees"
+msgstr ""
+
+#: widgets/animation.php:845
+msgid "rotateY"
+msgstr ""
+
+#: widgets/animation.php:847
+msgid "Value of rotation at vertical(Y) axis. unit: degrees"
+msgstr ""
+
+#: widgets/animation.php:862
+msgid "rotateZ"
+msgstr ""
+
+#: widgets/animation.php:864
+msgid "Value of rotation at Z axis. unit: degrees"
+msgstr ""
+
+#: widgets/animation.php:879
+msgid "scale( global )"
+msgstr ""
+
+#: widgets/animation.php:881
+msgid "Value of global scale. unit: ratio"
+msgstr ""
+
+#: widgets/animation.php:899 widgets/animation.php:912
+msgid "Disable Parallax at Big Tablet."
+msgstr ""
+
+#: widgets/animation.php:905
+msgid "Disable Parallax at Responsive Devices ( screen size < 1200px )."
+msgstr ""
+
+#: widgets/animation.php:918
+msgid "Disable Parallax at Responsive Devices ( screen size < 992px )."
+msgstr ""
+
+#: widgets/animation.php:1025 widgets/animation.php:1155
+#: widgets/animation.php:1228 widgets/animation.php:1349
+#: widgets/countdown.php:462 widgets/countdown.php:545
+#: widgets/counterup.php:232 widgets/counterup.php:288
+#: widgets/counterup.php:344 widgets/courses.php:334
+#: widgets/gallery-filter.php:359 widgets/image-icon-box.php:569
+#: widgets/image-icon-box.php:632 widgets/mailchimp.php:908
+#: widgets/nav-menu.php:321 widgets/tabs.php:275 widgets/tabs.php:515
+msgid "Margin"
+msgstr ""
+
+#: widgets/animation.php:1076
+msgid "Backdrop Filter"
+msgstr ""
+
+#: widgets/animation.php:1124 widgets/social-icons.php:435
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/button.php:46
+msgid "Button / Dual Button"
+msgstr ""
+
+#: widgets/button.php:108
+msgid "Buttons"
+msgstr ""
+
+#: widgets/button.php:115 widgets/button.php:434
+#: widgets/content-switcher.php:109
+msgid "Primary"
+msgstr ""
+
+#: widgets/button.php:123
+msgid "Get Started"
+msgstr ""
+
+#: widgets/button.php:124 widgets/button.php:241
+msgid "Enter button text."
+msgstr ""
+
+#: widgets/button.php:135 widgets/button.php:252 widgets/feature-1.php:194
+#: widgets/image-change-on-hover.php:156 widgets/image-icon-box.php:189
+#: widgets/service-1.php:204 widgets/service-2.php:204
+#: widgets/site-logo.php:262 widgets/social-icons.php:203
+#: widgets/team-1.php:212 widgets/team-2.php:212 widgets/team-3.php:212
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/button.php:161 widgets/button.php:274 widgets/image-icon-box.php:197
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/button.php:165 widgets/button.php:278
+msgid "Before"
+msgstr ""
+
+#: widgets/button.php:166 widgets/button.php:279
+msgid "After"
+msgstr ""
+
+#: widgets/button.php:177 widgets/button.php:290 widgets/mailchimp.php:794
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/button.php:201 widgets/button.php:314 widgets/mailchimp.php:815
+msgid "Icon Top Spacing"
+msgstr ""
+
+#: widgets/button.php:221 widgets/button.php:334
+#: widgets/course-category.php:264 widgets/courses.php:148
+#: widgets/feature-1.php:200 widgets/lp-wishlist.php:110 widgets/post-1.php:174
+#: widgets/service-1.php:210 widgets/service-2.php:210
+#: widgets/social-icons.php:209
+msgid "Style"
+msgstr ""
+
+#: widgets/button.php:225 widgets/button.php:338
+msgid "Fill"
+msgstr ""
+
+#: widgets/button.php:226 widgets/button.php:339
+msgid "Bordered"
+msgstr ""
+
+#: widgets/button.php:233 widgets/button.php:555
+#: widgets/content-switcher.php:162
+msgid "Secondary"
+msgstr ""
+
+#: widgets/button.php:353 widgets/contact-form-7.php:152
+#: widgets/logo-grid-carousel.php:208
+msgid "Container"
+msgstr ""
+
+#: widgets/button.php:387
+msgid "Inner Spacing"
+msgstr ""
+
+#: widgets/contact-form-7.php:45 widgets/contact-form-7.php:131
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/contact-form-7.php:109
+msgid "Alert!"
+msgstr ""
+
+#: widgets/contact-form-7.php:117
+msgid ""
+"<strong>contact Form 7</strong> is not installed/activated on your site. "
+"Please install and activate <a href=\"plugin-install.php?"
+"s=contact+form+7&tab=search&type=term\" target=\"_blank\">Contact Form 7</a> "
+"first."
+msgstr ""
+
+#: widgets/contact-form-7.php:143
+msgid ""
+"It's a list of all the contact forms you've created with the <strong>Contact "
+"Form 7</strong> from the admin panel."
+msgstr ""
+
+#: widgets/contact-form-7.php:202 widgets/mailchimp.php:158
+#: widgets/mailchimp.php:639
+msgid "Label"
+msgstr ""
+
+#: widgets/contact-info.php:44
+msgid "Contact Info"
+msgstr ""
+
+#: widgets/contact-info.php:117
+msgid "Style Type"
+msgstr ""
+
+#: widgets/contact-info.php:121 widgets/course-category.php:268
+#: widgets/post-1.php:178 widgets/tabs.php:119
+msgid "Style 1"
+msgstr ""
+
+#: widgets/contact-info.php:122 widgets/course-category.php:269
+#: widgets/post-1.php:179 widgets/tabs.php:120
+msgid "Style 2"
+msgstr ""
+
+#: widgets/contact-info.php:173
+msgid "Our Location"
+msgstr ""
+
+#: widgets/contact-info.php:180 widgets/image-icon-box.php:176
+#: widgets/service-1.php:177 widgets/service-2.php:177
+msgid "Details"
+msgstr ""
+
+#: widgets/contact-info.php:183
+msgid "486 Normana Avenue Morningtide, 4223"
+msgstr ""
+
+#: widgets/contact-info.php:190 widgets/service-1.php:226
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/contact-info.php:204 widgets/feature-1.php:205
+#: widgets/service-1.php:215 widgets/service-2.php:215
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/contact-info.php:218
+msgid "Item Hover Background Color"
+msgstr ""
+
+#: widgets/content-switcher.php:42 widgets/content-switcher.php:103
+msgid "Content Switcher"
+msgstr ""
+
+#: widgets/content-switcher.php:114 widgets/content-switcher.php:167
+msgid "Heading"
+msgstr ""
+
+#: widgets/content-switcher.php:117
+msgid "Primary Heading"
+msgstr ""
+
+#: widgets/content-switcher.php:129 widgets/tabs.php:145
+msgid "Saved Template"
+msgstr ""
+
+#: widgets/content-switcher.php:137 widgets/content-switcher.php:190
+#: widgets/tabs.php:167
+msgid "Select Section"
+msgstr ""
+
+#: widgets/content-switcher.php:152
+msgid "Primary content is written here."
+msgstr ""
+
+#: widgets/content-switcher.php:153 widgets/content-switcher.php:206
+msgid "Type your description here"
+msgstr ""
+
+#: widgets/content-switcher.php:170
+msgid "Secondary Heading"
+msgstr ""
+
+#: widgets/content-switcher.php:182
+msgid "Save Template"
+msgstr ""
+
+#: widgets/content-switcher.php:205
+msgid "Secondary content is written here."
+msgstr ""
+
+#: widgets/content-switcher.php:223 widgets/tabs.php:536
+msgid "Select"
+msgstr ""
+
+#: widgets/content-switcher.php:229 widgets/tabs.php:542
+msgid "No section template is added."
+msgstr ""
+
+#: widgets/copyright.php:42 widgets/copyright.php:105 widgets/copyright.php:123
+msgid "Copyright"
+msgstr ""
+
+#: widgets/copyright.php:112
+msgid "Copyright Text"
+msgstr ""
+
+#: widgets/copyright.php:114
+msgid ""
+"Copyright [eduvibe_core_running_year] [eduvibe_core_site_title] | Developed "
+"By DevsVibe. All Rights Reserved"
+msgstr ""
+
+#: widgets/copyright.php:175
+msgid "Link Color"
+msgstr ""
+
+#: widgets/copyright.php:177 widgets/copyright.php:190
+#: widgets/image-icon-box.php:622
+msgid "Only applicable if there is any link."
+msgstr ""
+
+#: widgets/copyright.php:187
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/countdown.php:45
+msgid "Countdown"
+msgstr ""
+
+#: widgets/countdown.php:121 widgets/countdown.php:424
+msgid "CountDown"
+msgstr ""
+
+#: widgets/countdown.php:128
+msgid "Countdown Date"
+msgstr ""
+
+#: widgets/countdown.php:131
+msgid "Set the date and time here"
+msgstr ""
+
+#: widgets/countdown.php:138
+msgid "Countdown Expired Title"
+msgstr ""
+
+#: widgets/countdown.php:141
+msgid "Congratulations! The Wait Is Over."
+msgstr ""
+
+#: widgets/countdown.php:142
+msgid "This text will be shown when the CountDown will end."
+msgstr ""
+
+#: widgets/countdown.php:149 widgets/countdown.php:342
+msgid "Divider"
+msgstr ""
+
+#: widgets/countdown.php:161
+msgid "Switch Content Position"
+msgstr ""
+
+#: widgets/countdown.php:167
+msgid ""
+"By enabling this option, the content position will be switched. The "
+"CountDown Digits will be placed at the bottom instead of top."
+msgstr ""
+
+#: widgets/countdown.php:174
+msgid "Day's Text"
+msgstr ""
+
+#: widgets/countdown.php:176
+msgid "Days"
+msgstr ""
+
+#: widgets/countdown.php:177
+msgid "Text for dates."
+msgstr ""
+
+#: widgets/countdown.php:184
+msgid "Hour's Text"
+msgstr ""
+
+#: widgets/countdown.php:186
+msgid "Hours"
+msgstr ""
+
+#: widgets/countdown.php:187
+msgid "Text for hours."
+msgstr ""
+
+#: widgets/countdown.php:194
+msgid "Minute's Text"
+msgstr ""
+
+#: widgets/countdown.php:196
+msgid "Minutes"
+msgstr ""
+
+#: widgets/countdown.php:197
+msgid "Text for minutes."
+msgstr ""
+
+#: widgets/countdown.php:204
+msgid "Second's Text"
+msgstr ""
+
+#: widgets/countdown.php:206
+msgid "Seconds"
+msgstr ""
+
+#: widgets/countdown.php:207
+msgid "Text for seconds."
+msgstr ""
+
+#: widgets/countdown.php:216
+msgid "Item"
+msgstr ""
+
+#: widgets/countdown.php:226
+msgid "Min Width"
+msgstr ""
+
+#: widgets/countdown.php:260
+msgid "Background"
+msgstr ""
+
+#: widgets/countdown.php:271
+msgid "Hover Background"
+msgstr ""
+
+#: widgets/countdown.php:320
+msgid "Horizontal Align"
+msgstr ""
+
+#: widgets/countdown.php:324
+msgid "Start"
+msgstr ""
+
+#: widgets/countdown.php:326
+msgid "End"
+msgstr ""
+
+#: widgets/countdown.php:327 widgets/footer-menu.php:200
+msgid "Space Between"
+msgstr ""
+
+#: widgets/countdown.php:328
+msgid "Space Around"
+msgstr ""
+
+#: widgets/countdown.php:329
+msgid "Space Evenly"
+msgstr ""
+
+#: widgets/countdown.php:353
+msgid "Divider Color"
+msgstr ""
+
+#: widgets/countdown.php:376
+msgid "Offset X"
+msgstr ""
+
+#: widgets/countdown.php:399
+msgid "Offset Y"
+msgstr ""
+
+#: widgets/countdown.php:451 widgets/countdown.php:503
+#: widgets/image-icon-box.php:620 widgets/social-icons.php:237
+#: widgets/social-icons.php:374
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/countdown.php:568
+msgid "Fixed Width"
+msgstr ""
+
+#: widgets/countdown.php:580
+msgid "Fixed Width Size"
+msgstr ""
+
+#: widgets/countdown.php:607
+msgid "Expired Title"
+msgstr ""
+
+#: widgets/counterup.php:48
+msgid "Counter Up"
+msgstr ""
+
+#: widgets/counterup.php:139
+msgid "CounterUp"
+msgstr ""
+
+#: widgets/counterup.php:146 widgets/counterup.php:205
+msgid "Ending Number"
+msgstr ""
+
+#: widgets/counterup.php:155
+msgid "Number Prefix"
+msgstr ""
+
+#: widgets/counterup.php:165
+msgid "Number Suffix"
+msgstr ""
+
+#: widgets/counterup.php:168
+msgid "+"
+msgstr ""
+
+#: widgets/counterup.php:258
+msgid "Prefix"
+msgstr ""
+
+#: widgets/counterup.php:314
+msgid "Suffix"
+msgstr ""
+
+#: widgets/course-category.php:55
+msgid "Course Category 1"
+msgstr ""
+
+#: widgets/course-category.php:158
+msgid "Categories"
+msgstr ""
+
+#: widgets/course-category.php:167
+msgid "Category Slug"
+msgstr ""
+
+#: widgets/course-category.php:175
+msgid "Category Custom Title"
+msgstr ""
+
+#: widgets/course-category.php:184
+msgid "Category Custom Description"
+msgstr ""
+
+#: widgets/course-category.php:187
+msgid "Only visible at Style 1 & Style 2"
+msgstr ""
+
+#: widgets/course-category.php:194
+msgid "Category Custom URL"
+msgstr ""
+
+#: widgets/course-category.php:203
+msgid "Category Custom Count"
+msgstr ""
+
+#: widgets/course-category.php:216
+msgid "Only applicable for Style 4"
+msgstr ""
+
+#: widgets/course-category.php:228
+msgid "Only visible at Style 1 & Style 4"
+msgstr ""
+
+#: widgets/course-category.php:241
+msgid "Only visible at Style 2 & Style 3"
+msgstr ""
+
+#: widgets/course-category.php:270 widgets/post-1.php:180
+msgid "Style 3"
+msgstr ""
+
+#: widgets/course-category.php:271
+msgid "Style 4"
+msgstr ""
+
+#: widgets/course-category.php:279 widgets/courses.php:165
+#: widgets/event-1.php:161 widgets/mailchimp.php:130 widgets/post-1.php:161
+#: widgets/team-1.php:174 widgets/team-2.php:174 widgets/team-3.php:174
+msgid "Display Type"
+msgstr ""
+
+#: widgets/course-category.php:283 widgets/courses.php:169
+#: widgets/event-1.php:165 widgets/post-1.php:165 widgets/team-1.php:178
+#: widgets/team-2.php:178 widgets/team-3.php:178
+msgid "Grid"
+msgstr ""
+
+#: widgets/course-category.php:284 widgets/courses.php:170
+#: widgets/event-1.php:166 widgets/post-1.php:166 widgets/team-1.php:179
+#: widgets/team-2.php:179 widgets/team-3.php:179
+msgid "Slider"
+msgstr ""
+
+#: widgets/course-category.php:291 widgets/courses.php:177
+#: widgets/event-1.php:209 widgets/event-2.php:153 widgets/post-1.php:187
+#: widgets/post-2.php:285
+msgid "Active White Background"
+msgstr ""
+
+#: widgets/course-category.php:304
+msgid "Category Count"
+msgstr ""
+
+#: widgets/course-category.php:315
+msgid "Course Label"
+msgstr ""
+
+#: widgets/course-category.php:317
+msgid "Course"
+msgstr ""
+
+#: widgets/course-category.php:318
+msgid "Label for singular course( Only for 1 )."
+msgstr ""
+
+#: widgets/course-category.php:328
+msgid "Courses Label"
+msgstr ""
+
+#: widgets/course-category.php:330 widgets/courses.php:141
+msgid "Courses"
+msgstr ""
+
+#: widgets/course-category.php:331
+msgid "Label for plural courses."
+msgstr ""
+
+#: widgets/courses.php:52
+msgid "Courses( Grid / Carousel / Filter )"
+msgstr ""
+
+#: widgets/courses.php:152 widgets/lp-wishlist.php:114
+msgid "One"
+msgstr ""
+
+#: widgets/courses.php:153 widgets/lp-wishlist.php:115
+msgid "Two"
+msgstr ""
+
+#: widgets/courses.php:154 widgets/lp-wishlist.php:116
+msgid "Three"
+msgstr ""
+
+#: widgets/courses.php:155 widgets/lp-wishlist.php:117
+msgid "Four"
+msgstr ""
+
+#: widgets/courses.php:156 widgets/lp-wishlist.php:118
+msgid "Five"
+msgstr ""
+
+#: widgets/courses.php:157 widgets/lp-wishlist.php:119
+msgid "Six"
+msgstr ""
+
+#: widgets/courses.php:189
+msgid "Filter"
+msgstr ""
+
+#: widgets/courses.php:205 widgets/gallery-filter.php:150
+msgid ""
+"<strong>The Filtering might not work on the Elementor Editor Page. But, "
+"it'll definitely work on the FrontEnd of your site.</strong>"
+msgstr ""
+
+#: widgets/courses.php:222
+msgid "Filter Type"
+msgstr ""
+
+#: widgets/courses.php:227
+msgid "Category Filtering"
+msgstr ""
+
+#: widgets/courses.php:228
+msgid "Filter by New/ Featured/ Popular"
+msgstr ""
+
+#: widgets/courses.php:246
+msgid "Text for All Courses"
+msgstr ""
+
+#: widgets/courses.php:248 widgets/gallery-filter.php:265
+#: widgets/lp-courses.php:118
+msgid "All"
+msgstr ""
+
+#: widgets/courses.php:264 widgets/event-1.php:182 widgets/event-2.php:126
+#: widgets/post-1.php:207 widgets/post-2.php:164 widgets/post-2.php:267
+msgid "Image Height"
+msgstr ""
+
+#: widgets/courses.php:297 widgets/gallery-filter.php:326
+msgid "Control"
+msgstr ""
+
+#: widgets/courses.php:309 widgets/gallery-filter.php:334
+msgid "Control Alignment"
+msgstr ""
+
+#: widgets/event-1.php:51
+msgid "Events 1"
+msgstr ""
+
+#: widgets/event-1.php:202 widgets/event-2.php:146 widgets/mailchimp.php:311
+#: widgets/post-1.php:226 widgets/service-1.php:187 widgets/service-2.php:187
+msgid "Button Text"
+msgstr ""
+
+#: widgets/event-1.php:203
+msgid "Get Ticket"
+msgstr ""
+
+#: widgets/event-1.php:336 widgets/event-2.php:230
+msgid "Event Image"
+msgstr ""
+
+#: widgets/event-2.php:45
+msgid "Events 2( List )"
+msgstr ""
+
+#: widgets/event-2.php:147
+msgid "Book A Seat"
+msgstr ""
+
+#: widgets/feature-1.php:46
+msgid "Feature 1"
+msgstr ""
+
+#: widgets/feature-1.php:125 widgets/service-1.php:125
+#: widgets/service-2.php:125
+msgid "Image/Icon"
+msgstr ""
+
+#: widgets/feature-1.php:170
+msgid "Envato Design of The Week"
+msgstr ""
+
+#: widgets/feature-1.php:177 widgets/section-title.php:113
+#: widgets/section-title.php:171
+msgid "Pre Title"
+msgstr ""
+
+#: widgets/feature-1.php:180
+msgid "Market / 2022"
+msgstr ""
+
+#: widgets/feature-1.php:224 widgets/service-1.php:246
+#: widgets/service-2.php:234
+msgid "Remote Learning"
+msgstr ""
+
+#: widgets/feature-1.php:228 widgets/service-1.php:251
+#: widgets/service-2.php:238
+msgid "Awesome Tutors"
+msgstr ""
+
+#: widgets/feature-1.php:232 widgets/service-1.php:256
+#: widgets/service-2.php:242
+msgid "Global Certificate"
+msgstr ""
+
+#: widgets/feature-1.php:236 widgets/service-1.php:261
+#: widgets/service-2.php:246
+msgid "Carrier Guideline"
+msgstr ""
+
+#: widgets/footer-menu.php:51 widgets/footer-menu.php:184
+msgid "Footer Menu"
+msgstr ""
+
+#: widgets/footer-menu.php:148 widgets/nav-menu.php:54 widgets/nav-menu.php:150
+#: widgets/nav-menu.php:290
+msgid "Nav Menu"
+msgstr ""
+
+#: widgets/footer-menu.php:158 widgets/nav-menu.php:160
+msgid "Menu"
+msgstr ""
+
+#: widgets/footer-menu.php:164 widgets/nav-menu.php:166
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: widgets/footer-menu.php:172 widgets/nav-menu.php:174
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: widgets/gallery-filter.php:45
+msgid "Filterable Gallery"
+msgstr ""
+
+#: widgets/gallery-filter.php:142
+msgid "Gallery Filter Items"
+msgstr ""
+
+#: widgets/gallery-filter.php:163 widgets/service-1.php:170
+#: widgets/service-2.php:170
+msgid "Education"
+msgstr ""
+
+#: widgets/gallery-filter.php:170
+msgid "Control Name"
+msgstr ""
+
+#: widgets/gallery-filter.php:173
+msgid "<b>Comma separated gallery controls. Example: Technology, Education</b>"
+msgstr ""
+
+#: widgets/gallery-filter.php:191
+msgid "Big Image(PopUp)"
+msgstr ""
+
+#: widgets/gallery-filter.php:199 widgets/logo-grid-carousel.php:154
+msgid "Specific Image Size"
+msgstr ""
+
+#: widgets/gallery-filter.php:251
+msgid "Controls"
+msgstr ""
+
+#: widgets/gallery-filter.php:263
+msgid "Text for All Item"
+msgstr ""
+
+#: widgets/gallery-filter.php:307
+msgid "PopUp Icon"
+msgstr ""
+
+#: widgets/image-change-on-hover.php:43
+msgid "Image Change On Hover"
+msgstr ""
+
+#: widgets/image-change-on-hover.php:112
+msgid "Primary Image"
+msgstr ""
+
+#: widgets/image-change-on-hover.php:133
+msgid "Hover Image"
+msgstr ""
+
+#: widgets/image-icon-box.php:47
+msgid "Icon/Image Box"
+msgstr ""
+
+#: widgets/image-icon-box.php:109
+msgid "Image/Icon Box"
+msgstr ""
+
+#: widgets/image-icon-box.php:116
+msgid "Icon/Image"
+msgstr ""
+
+#: widgets/image-icon-box.php:167
+msgid "This is the heading"
+msgstr ""
+
+#: widgets/image-icon-box.php:168
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/image-icon-box.php:179
+msgid "Enter your description"
+msgstr ""
+
+#: widgets/image-icon-box.php:219 widgets/mailchimp.php:143
+msgid "Vertical On Mobile"
+msgstr ""
+
+#: widgets/image-icon-box.php:234
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/image-icon-box.php:268
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/image-icon-box.php:280 widgets/image-icon-box.php:439
+#: widgets/video-popup.php:372
+msgid "Box Size"
+msgstr ""
+
+#: widgets/image-icon-box.php:427
+msgid "Image Box"
+msgstr ""
+
+#: widgets/image-icon-box.php:549
+msgid "Vertical Alignment"
+msgstr ""
+
+#: widgets/image-icon-box.php:554
+msgid "Middle"
+msgstr ""
+
+#: widgets/image-icon-box.php:644
+msgid "Description"
+msgstr ""
+
+#: widgets/logo-grid-carousel.php:51
+msgid "Image/Logo Grid/Carousel"
+msgstr ""
+
+#: widgets/logo-grid-carousel.php:134
+msgid "Image "
+msgstr ""
+
+#: widgets/logo-grid-carousel.php:251
+msgid "Border radius"
+msgstr ""
+
+#: widgets/lp-course-category.php:14
+msgid "LearnPress Course Category"
+msgstr ""
+
+#: widgets/lp-courses.php:136
+msgid "New Courses"
+msgstr ""
+
+#: widgets/lp-courses.php:137
+msgid "Featured Courses"
+msgstr ""
+
+#: widgets/lp-courses.php:138
+msgid "Popular Courses"
+msgstr ""
+
+#: widgets/lp-wishlist.php:41
+msgid "Wishlist( LearnPress )"
+msgstr ""
+
+#: widgets/lp-wishlist.php:103
+msgid "WishList Courses( LearnPress )"
+msgstr ""
+
+#: widgets/lp-wishlist.php:164
+msgid "You've not added any courses in your wishlist."
+msgstr ""
+
+#: widgets/lp-wishlist.php:166
+msgid "You need to Log in first to add course in your wishlist."
+msgstr ""
+
+#: widgets/mailchimp.php:47 widgets/mailchimp.php:112
+msgid "MailChimp"
+msgstr ""
+
+#: widgets/mailchimp.php:119
+msgid "Mailchimp List"
+msgstr ""
+
+#: widgets/mailchimp.php:123
+#, php-format
+msgid ""
+"To display MailChimp without an issue, you need to configure MailChimp API "
+"key. Please configure API key from the \"API Keys\" tab <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">here</a>. This <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">article</a> will help you to find out "
+"your API."
+msgstr ""
+
+#: widgets/mailchimp.php:134
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/mailchimp.php:135
+msgid "Vertical"
+msgstr ""
+
+#: widgets/mailchimp.php:148
+msgid ""
+"This option will only mobile devices which screen size is less than 768px. "
+msgstr ""
+
+#: widgets/mailchimp.php:170
+msgid "Enable Placeholder"
+msgstr ""
+
+#: widgets/mailchimp.php:182
+msgid "Label for Email"
+msgstr ""
+
+#: widgets/mailchimp.php:185 widgets/mailchimp.php:198
+msgid "Email"
+msgstr ""
+
+#: widgets/mailchimp.php:195
+msgid "Placeholder for Email"
+msgstr ""
+
+#: widgets/mailchimp.php:208 widgets/mailchimp.php:220
+#: widgets/mailchimp.php:683
+msgid "Mail Icon"
+msgstr ""
+
+#: widgets/mailchimp.php:231 widgets/mailchimp.php:246
+#: widgets/mailchimp.php:260
+msgid "First Name"
+msgstr ""
+
+#: widgets/mailchimp.php:243
+msgid "Label for First Name"
+msgstr ""
+
+#: widgets/mailchimp.php:257
+msgid "Placeholder for First Name"
+msgstr ""
+
+#: widgets/mailchimp.php:271 widgets/mailchimp.php:286
+#: widgets/mailchimp.php:300
+msgid "Last Name"
+msgstr ""
+
+#: widgets/mailchimp.php:283
+msgid "Label for Last Name"
+msgstr ""
+
+#: widgets/mailchimp.php:297
+msgid "Placeholder for Last Name"
+msgstr ""
+
+#: widgets/mailchimp.php:314
+msgid "Subscribe"
+msgstr ""
+
+#: widgets/mailchimp.php:321
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/mailchimp.php:329
+msgid "Loading Text"
+msgstr ""
+
+#: widgets/mailchimp.php:332
+msgid "Submitting..."
+msgstr ""
+
+#: widgets/mailchimp.php:339
+msgid "Success Text"
+msgstr ""
+
+#: widgets/mailchimp.php:342
+msgid "You have subscribed successfully..."
+msgstr ""
+
+#: widgets/mailchimp.php:349
+msgid "Error Text"
+msgstr ""
+
+#: widgets/mailchimp.php:352
+msgid "Something went wrong, please try again later."
+msgstr ""
+
+#: widgets/mailchimp.php:359
+msgid "Notification Text"
+msgstr ""
+
+#: widgets/mailchimp.php:362
+msgid "Please insert your API key first."
+msgstr ""
+
+#: widgets/mailchimp.php:371
+msgid "Field"
+msgstr ""
+
+#: widgets/mailchimp.php:379
+msgid "Horizontal Content Alignment"
+msgstr ""
+
+#: widgets/mailchimp.php:408
+msgid "Vertical Content Alignment"
+msgstr ""
+
+#: widgets/mailchimp.php:435
+msgid "It only work if you set a width except 100%."
+msgstr ""
+
+#: widgets/mailchimp.php:490 widgets/mailchimp.php:658
+#: widgets/mailchimp.php:944 widgets/mailchimp.php:986
+#: widgets/site-logo.php:502
+msgid "Text Color"
+msgstr ""
+
+#: widgets/mailchimp.php:612
+msgid "Focus"
+msgstr ""
+
+#: widgets/mailchimp.php:724
+msgid "Side Spacing"
+msgstr ""
+
+#: widgets/mailchimp.php:742
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/mailchimp.php:768
+msgid "Submit Button"
+msgstr ""
+
+#: widgets/mailchimp.php:776
+msgid "Button Width"
+msgstr ""
+
+#: widgets/mailchimp.php:1030
+msgid "Message"
+msgstr ""
+
+#: widgets/mailchimp.php:1038
+msgid "Success Message"
+msgstr ""
+
+#: widgets/mailchimp.php:1065
+msgid "Error Message"
+msgstr ""
+
+#: widgets/mailchimp.php:1093
+msgid "Notification Message"
+msgstr ""
+
+#: widgets/nav-menu.php:200
+msgid "Justify"
+msgstr ""
+
+#: widgets/nav-menu.php:215 widgets/nav-menu.php:541
+msgid "Responsive"
+msgstr ""
+
+#: widgets/nav-menu.php:222
+msgid "Breakpoint"
+msgstr ""
+
+#: widgets/nav-menu.php:226
+msgid "Mobile (768px >)"
+msgstr ""
+
+#: widgets/nav-menu.php:227
+msgid "Tablet (992px >)"
+msgstr ""
+
+#: widgets/nav-menu.php:228
+msgid "Big Tablet (1200px >)"
+msgstr ""
+
+#: widgets/nav-menu.php:238
+msgid "Menu Icon"
+msgstr ""
+
+#: widgets/nav-menu.php:263
+msgid "Toggle Alignment"
+msgstr ""
+
+#: widgets/nav-menu.php:367
+msgid "Menu Bottom Bar"
+msgstr ""
+
+#: widgets/nav-menu.php:376
+msgid "Color( Hover/Active )"
+msgstr ""
+
+#: widgets/nav-menu.php:426
+msgid "Dropdown"
+msgstr ""
+
+#: widgets/nav-menu.php:549 widgets/nav-menu.php:677
+msgid "Toggle Menu Color"
+msgstr ""
+
+#: widgets/nav-menu.php:560
+msgid "Toggle Menu Size"
+msgstr ""
+
+#: widgets/nav-menu.php:577
+msgid "Close Icon Color"
+msgstr ""
+
+#: widgets/nav-menu.php:588
+msgid "Close Icon Size"
+msgstr ""
+
+#: widgets/nav-menu.php:605
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/nav-menu.php:616
+msgid "Mobile Menu Padding"
+msgstr ""
+
+#: widgets/nav-menu.php:628
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: widgets/nav-menu.php:639
+msgid "Mobile Menu Color"
+msgstr ""
+
+#: widgets/nav-menu.php:660
+msgid "Transparent & Sticky"
+msgstr ""
+
+#: widgets/nav-menu.php:669
+msgid ""
+"If you set this Header as Transparent and Sticky then this section style "
+"will work. This style will be applied when the transparent menu will be "
+"hidden and get sticky."
+msgstr ""
+
+#: widgets/post-1.php:52
+msgid "Post 1( Grid / Carousel )"
+msgstr ""
+
+#: widgets/post-1.php:154
+msgid "Post"
+msgstr ""
+
+#: widgets/post-1.php:228
+msgid "Read More"
+msgstr ""
+
+#: widgets/post-2.php:47
+msgid "Post 2"
+msgstr ""
+
+#: widgets/post-2.php:109 widgets/post-2.php:128
+msgid "Featured Post"
+msgstr ""
+
+#: widgets/post-2.php:115
+msgid "Always Show The Latest Post?"
+msgstr ""
+
+#: widgets/post-2.php:119
+msgid "Always show the latest post as the Featured Post"
+msgstr ""
+
+#: widgets/post-2.php:155
+msgid "Featured Post Must Have a Featured Image."
+msgstr ""
+
+#: widgets/post-2.php:185
+msgid "Other Specific Posts"
+msgstr ""
+
+#: widgets/post-2.php:192
+msgid "Specific Posts"
+msgstr ""
+
+#: widgets/post-2.php:296
+msgid "Post Title in 2 Lines(max)?"
+msgstr ""
+
+#: widgets/post-2.php:300
+msgid ""
+"By enabling this option, the post title will appear in a maximum of 2 lines."
+msgstr ""
+
+#: widgets/section-title.php:43
+msgid "Section Title"
+msgstr ""
+
+#: widgets/section-title.php:116
+msgid "PRE TITLE"
+msgstr ""
+
+#: widgets/section-title.php:126
+msgid "Add Your Section Title Text"
+msgstr ""
+
+#: widgets/section-title.php:133
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/section-title.php:247
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/service-1.php:46
+msgid "Service 1"
+msgstr ""
+
+#: widgets/service-1.php:180 widgets/service-2.php:180
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: widgets/service-1.php:189 widgets/service-1.php:190
+#: widgets/service-2.php:189 widgets/service-2.php:190
+msgid "Learn More"
+msgstr ""
+
+#: widgets/service-1.php:197 widgets/service-2.php:197
+msgid "Button Link"
+msgstr ""
+
+#: widgets/service-2.php:46
+msgid "Service 2"
+msgstr ""
+
+#: widgets/site-logo.php:51 widgets/site-logo.php:113 widgets/site-logo.php:292
+msgid "Site Logo"
+msgstr ""
+
+#: widgets/site-logo.php:120 widgets/site-logo.php:134
+msgid "Custom Logo"
+msgstr ""
+
+#: widgets/site-logo.php:124 widgets/site-logo.php:153
+#: widgets/site-logo.php:217 widgets/site-logo.php:278
+msgid "Yes"
+msgstr ""
+
+#: widgets/site-logo.php:125 widgets/site-logo.php:154
+#: widgets/site-logo.php:216 widgets/site-logo.php:279
+msgid "No"
+msgstr ""
+
+#: widgets/site-logo.php:149 widgets/site-logo.php:163
+msgid "Transparent Logo"
+msgstr ""
+
+#: widgets/site-logo.php:166
+msgid "Transparent Logo won't visible here. It'll show perfectly at your site."
+msgstr ""
+
+#: widgets/site-logo.php:177
+msgid "Logo Size"
+msgstr ""
+
+#: widgets/site-logo.php:210 widgets/site-logo.php:490
+msgid "Caption"
+msgstr ""
+
+#: widgets/site-logo.php:225
+msgid "Custom Caption"
+msgstr ""
+
+#: widgets/site-logo.php:229
+msgid "Enter caption"
+msgstr ""
+
+#: widgets/site-logo.php:248
+msgid "Media File"
+msgstr ""
+
+#: widgets/site-logo.php:249
+msgid "Custom URL"
+msgstr ""
+
+#: widgets/site-logo.php:273
+msgid "Lightbox"
+msgstr ""
+
+#: widgets/site-logo.php:326
+msgid "Max Width"
+msgstr ""
+
+#: widgets/social-icons.php:46 widgets/social-icons.php:109
+#: widgets/social-icons.php:283 widgets/team-1.php:349 widgets/team-2.php:360
+#: widgets/team-3.php:358
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/social-icons.php:249 widgets/social-icons.php:386
+msgid "Hover Background Color"
+msgstr ""
+
+#: widgets/social-icons.php:325
+msgid "Icons"
+msgstr ""
+
+#: widgets/social-icons.php:479
+msgid "Icon Box Width"
+msgstr ""
+
+#: widgets/social-icons.php:498
+msgid "Icon Box Height"
+msgstr ""
+
+#: widgets/social-icons.php:517
+msgid "Icon Box Line Height"
+msgstr ""
+
+#: widgets/styles/posts/post-2.php:27
+msgid "Read"
+msgstr ""
+
+#: widgets/styles/posts/post-3.php:17
+msgid "Posted By"
+msgstr ""
+
+#: widgets/svg-scroll-animation.php:41
+msgid "SVG Scroll Animation"
+msgstr ""
+
+#: widgets/tabs.php:45 widgets/tabs.php:108
+msgid "Tabs"
+msgstr ""
+
+#: widgets/tabs.php:133
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/tabs.php:146
+msgid "ShortCode"
+msgstr ""
+
+#: widgets/tabs.php:180
+msgid "Enter your shortcode"
+msgstr ""
+
+#: widgets/tabs.php:183
+msgid "[gallery]"
+msgstr ""
+
+#: widgets/tabs.php:196
+msgid "Tab #1"
+msgstr ""
+
+#: widgets/tabs.php:198
+msgid "Tab #2"
+msgstr ""
+
+#: widgets/tabs.php:199
+msgid ""
+"The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit”, looks like Latin because in its youth, "
+"centuries ago, it was Latin."
+msgstr ""
+
+#: widgets/tabs.php:292
+msgid "Absolute"
+msgstr ""
+
+#: widgets/team-1.php:52
+msgid "Team / Instructor 1( Grid / Carousel )"
+msgstr ""
+
+#: widgets/team-1.php:142 widgets/team-2.php:142 widgets/team-3.php:142
+msgid "Team / Instructor"
+msgstr ""
+
+#: widgets/team-1.php:153 widgets/team-2.php:153 widgets/team-3.php:153
+msgid "Dynamic"
+msgstr ""
+
+#: widgets/team-1.php:154 widgets/team-2.php:154 widgets/team-3.php:154
+msgid "Static"
+msgstr ""
+
+#: widgets/team-1.php:162 widgets/team-2.php:162 widgets/team-3.php:162
+msgid "Open Social Link in New Tab"
+msgstr ""
+
+#: widgets/team-1.php:202 widgets/team-2.php:202 widgets/team-3.php:202
+msgid "John Doe"
+msgstr ""
+
+#: widgets/team-1.php:209 widgets/team-2.php:209 widgets/team-3.php:209
+msgid "Profile Link"
+msgstr ""
+
+#: widgets/team-1.php:223 widgets/team-1.php:334 widgets/team-2.php:223
+#: widgets/team-2.php:345 widgets/team-3.php:223 widgets/team-3.php:343
+#: widgets/testimonial-1.php:173 widgets/testimonial-2.php:171
+#: widgets/testimonial-3.php:173 widgets/testimonial-4.php:183
+#: widgets/testimonial-4.php:308
+msgid "Designation"
+msgstr ""
+
+#: widgets/team-1.php:226 widgets/team-2.php:226 widgets/team-3.php:226
+msgid "Airline Copilots, Liberal"
+msgstr ""
+
+#: widgets/team-1.php:244 widgets/team-2.php:244 widgets/team-3.php:244
+msgid "Social Profile Links"
+msgstr ""
+
+#: widgets/team-1.php:253 widgets/team-2.php:253 widgets/team-3.php:253
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/team-1.php:283 widgets/team-2.php:292 widgets/team-3.php:292
+#: widgets/testimonial-1.php:207 widgets/testimonial-2.php:195
+#: widgets/testimonial-3.php:207 widgets/testimonial-4.php:207
+msgid "David J. Owens"
+msgstr ""
+
+#: widgets/team-1.php:284 widgets/team-2.php:293 widgets/team-3.php:293
+#: widgets/testimonial-1.php:208 widgets/testimonial-2.php:196
+#: widgets/testimonial-3.php:208 widgets/testimonial-4.php:208
+msgid "Bob P. Limones"
+msgstr ""
+
+#: widgets/team-1.php:285 widgets/team-2.php:295 widgets/team-3.php:294
+#: widgets/testimonial-1.php:209 widgets/testimonial-2.php:197
+#: widgets/testimonial-3.php:209 widgets/testimonial-4.php:209
+msgid "Tom R. Hurley"
+msgstr ""
+
+#: widgets/team-1.php:286 widgets/team-2.php:297 widgets/team-3.php:295
+#: widgets/testimonial-1.php:210 widgets/testimonial-2.php:198
+#: widgets/testimonial-3.php:210 widgets/testimonial-4.php:210
+msgid "Robert H. Lane"
+msgstr ""
+
+#: widgets/team-1.php:319 widgets/team-2.php:330 widgets/team-3.php:328
+msgid "Link To Instructor Profile Page"
+msgstr ""
+
+#: widgets/team-2.php:52
+msgid "Team / Instructor 2( Grid / Carousel )"
+msgstr ""
+
+#: widgets/team-2.php:280 widgets/team-3.php:280
+msgid "Youtube"
+msgstr ""
+
+#: widgets/team-2.php:375
+msgid "By Default Active"
+msgstr ""
+
+#: widgets/team-2.php:379
+msgid "First"
+msgstr ""
+
+#: widgets/team-2.php:380
+msgid "Second"
+msgstr ""
+
+#: widgets/team-2.php:381
+msgid "Third"
+msgstr ""
+
+#: widgets/team-2.php:382
+msgid "Fourth"
+msgstr ""
+
+#: widgets/team-3.php:52
+msgid "Team / Instructor 3( Grid / Carousel )"
+msgstr ""
+
+#: widgets/test.php:49
+msgid "(Testing)"
+msgstr ""
+
+#: widgets/test.php:121
+msgid "Columns"
+msgstr ""
+
+#: widgets/test.php:125
+msgid "1"
+msgstr ""
+
+#: widgets/test.php:126
+msgid "2"
+msgstr ""
+
+#: widgets/test.php:127
+msgid "3"
+msgstr ""
+
+#: widgets/test.php:128
+msgid "4"
+msgstr ""
+
+#: widgets/testimonial-1.php:44
+msgid "Testimonial Carousel 1"
+msgstr ""
+
+#: widgets/testimonial-1.php:136 widgets/testimonial-1.php:163
+#: widgets/testimonial-2.php:134 widgets/testimonial-2.php:161
+#: widgets/testimonial-3.php:136 widgets/testimonial-3.php:163
+#: widgets/testimonial-4.php:135 widgets/testimonial-4.php:173
+#: widgets/testimonial-4.php:221
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/testimonial-1.php:156 widgets/testimonial-2.php:154
+#: widgets/testimonial-3.php:156 widgets/testimonial-4.php:166
+msgid "Lorraine D. Raines"
+msgstr ""
+
+#: widgets/testimonial-1.php:166 widgets/testimonial-2.php:164
+#: widgets/testimonial-3.php:166 widgets/testimonial-4.php:176
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur dloril adipiscing elit, sed do "
+"eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea "
+"commodo."
+msgstr ""
+
+#: widgets/testimonial-1.php:176 widgets/testimonial-2.php:174
+#: widgets/testimonial-3.php:176 widgets/testimonial-4.php:186
+msgid "WordPress Expert"
+msgstr ""
+
+#: widgets/testimonial-1.php:194 widgets/testimonial-3.php:194
+msgid "Rating"
+msgstr ""
+
+#: widgets/testimonial-2.php:44
+msgid "Testimonial Carousel 2"
+msgstr ""
+
+#: widgets/testimonial-2.php:181 widgets/testimonial-3.php:183
+msgid "Author Thumb"
+msgstr ""
+
+#: widgets/testimonial-3.php:44
+msgid "Testimonial Carousel 3"
+msgstr ""
+
+#: widgets/testimonial-4.php:45
+msgid "Testimonial Carousel 4"
+msgstr ""
+
+#: widgets/testimonial-4.php:149
+msgid "Quote Icon"
+msgstr ""
+
+#: widgets/video-popup.php:49 widgets/video-popup.php:140
+msgid "Video PopUp"
+msgstr ""
+
+#: widgets/video-popup.php:147
+msgid "Background Image"
+msgstr ""
+
+#: widgets/video-popup.php:182
+msgid "Video URL"
+msgstr ""
+
+#: widgets/video-popup.php:185
+msgid "Place your video URL here."
+msgstr ""
+
+#: widgets/video-popup.php:192
+msgid "Video Icon"
+msgstr ""
+
+#: widgets/video-popup.php:204
+msgid "Side Text"
+msgstr ""
+
+#: widgets/video-popup.php:206
+msgid "Place your video popup text information. Example: Play Now"
+msgstr ""
+
+#: widgets/video-popup.php:245
+msgid "Continious"
+msgstr ""
+
+#: widgets/video-popup.php:246
+msgid "On Hover"
+msgstr ""
+
+#: widgets/video-popup.php:247
+msgid "Never"
+msgstr ""
+
+#: widgets/video-popup.php:255
+msgid "Continious Animation"
+msgstr ""
+
+#: widgets/video-popup.php:259
+msgid "Colored"
+msgstr ""
+
+#: widgets/video-popup.php:260
+msgid "White"
+msgstr ""
+
+#: widgets/video-popup.php:261
+msgid "White Ripple"
+msgstr ""
+
+#: widgets/video-popup.php:262
+msgid "Custom Ripple Color"
+msgstr ""
+
+#: widgets/video-popup.php:273 widgets/video-popup.php:303
+msgid "Overlay"
+msgstr ""
+
+#: widgets/video-popup.php:394
+msgid "Box Size ( On Hover( Increase ) )"
+msgstr ""
+
+#: widgets/video-popup.php:534
+msgid "Indent"
+msgstr ""

@@ -1,0 +1,111 @@
+
+---Downloaded files---
+The import files for: EduVibe LearnPress Demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://eduvibe.devsvibe.com/main
+Data file = /home/devsvibe/eduvibe.devsvibe.com/main/wp-content/themes/eduvibe/lib/demo-data/demo-content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+eduvibe_theme_options -> /home/devsvibe/eduvibe.devsvibe.com/main/wp-content/themes/eduvibe/lib/demo-data/redux_options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Event Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Event Start Date": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event Location": Invalid post type acf-field
+[WARNING] Failed to import "Event End Date": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "Ongoing People": Invalid post type acf-field
+[WARNING] Failed to import "Latitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Longitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Price": Invalid post type acf-field
+[WARNING] Failed to import "Purchase Link": Invalid post type acf-field
+[WARNING] Failed to import "Product Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Author Name": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Event Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Event Start Date": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event Location": Invalid post type acf-field
+[WARNING] Failed to import "Event End Date": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "Ongoing People": Invalid post type acf-field
+[WARNING] Failed to import "Latitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Longitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Price": Invalid post type acf-field
+[WARNING] Failed to import "Purchase Link": Invalid post type acf-field
+[WARNING] Failed to import "Product Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Author Name": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Event Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Event Start Date": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event Location": Invalid post type acf-field
+[WARNING] Failed to import "Event End Date": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "Ongoing People": Invalid post type acf-field
+[WARNING] Failed to import "Latitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Longitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Price": Invalid post type acf-field
+[WARNING] Failed to import "Purchase Link": Invalid post type acf-field
+[WARNING] Failed to import "Product Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Author Name": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Event Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Event Start Date": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event Location": Invalid post type acf-field
+[WARNING] Failed to import "Event End Date": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "Ongoing People": Invalid post type acf-field
+[WARNING] Failed to import "Latitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Longitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Price": Invalid post type acf-field
+[WARNING] Failed to import "Purchase Link": Invalid post type acf-field
+[WARNING] Failed to import "Product Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Author Name": Invalid post type acf-field
+[WARNING] Failed to import "devs marketingworld": Invalid post type mt_pp
+[WARNING] Failed to import "Alpha Digital": Invalid post type mt_pp
+[WARNING] Failed to import "eduvibelp": Invalid post type mt_pp
+[WARNING] Failed to import "ThemeTouch": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Event Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Event Start Date": Invalid post type acf-field
+[WARNING] Failed to import "Event Start Time": Invalid post type acf-field
+[WARNING] Failed to import "Event Location": Invalid post type acf-field
+[WARNING] Failed to import "Event End Date": Invalid post type acf-field
+[WARNING] Failed to import "Event End Time": Invalid post type acf-field
+[WARNING] Failed to import "Ongoing People": Invalid post type acf-field
+[WARNING] Failed to import "Latitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Longitude for Google Map": Invalid post type acf-field
+[WARNING] Failed to import "Price": Invalid post type acf-field
+[WARNING] Failed to import "Purchase Link": Invalid post type acf-field
+[WARNING] Failed to import "Product Meta Info": Invalid post type acf-field-group
+[WARNING] Failed to import "Author Name": Invalid post type acf-field
+[WARNING] Failed to import "devs marketingworld": Invalid post type mt_pp
+[WARNING] Failed to import "Alpha Digital": Invalid post type mt_pp
+[WARNING] Failed to import "eduvibelp": Invalid post type mt_pp
+[WARNING] Failed to import "ThemeTouch": Invalid post type mt_pp
+
+
+---Importing Redux settings---
+Redux settings import for: eduvibe_theme_options finished successfully!
+
+---ocdi/after_import---
+
