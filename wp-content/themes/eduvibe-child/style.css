@@ -44,4 +44,57 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
     display: flex;
     justify-content: center;
 	background: linear-gradient(rgba(75, 66, 63, 0) 50.92%, rgba(54, 44, 40, 0.7) 74.42%);
+	
+}
+.eduvibe-single-course.course-style-1 .inner .content{
+	padding:10px !important;
+}
+.eduvibe-single-course.course-style-1 .inner .content > .edu-meta.meta-01{
+	display:none;
+}
+.eduvibe-single-course.course-style-1 .inner .content .title{
+	margin-bottom: 10px !important;
+    margin-top: 10px !important;
+}
+ul.footer-navigation-menu li a::before{
+	display:none !important;
+}
+ul.footer-navigation-menu li a{
+	padding-left: 0px !important;
+}
+ul.footer-navigation-menu li{
+	margin-top: 12px !important;
+}
+.eduvibe-single-course.course-style-1 .inner .content .title{
+	font-size:18px !important;
+}
+.lp-user-profile{
+	padding-top: 15px !important;
+}
+.lp-user-cover-image_background {
+	display:none;
+}
+#learn-press-profile #profile-nav .lp-profile-nav-tabs li:hover > a, 
+#learn-press-profile #profile-nav .lp-profile-nav-tabs li.active > a{
+	background:#000000 !important;
+	color: #ffffff !important;
+}
+.lp-user-profile #profile-nav .lp-profile-nav-tabs>li a{
+	color:#000000 !important;
+}
+.lp-user-profile .lp-profile-nav-tabs>li.active>a, 
+.lp-user-profile .lp-profile-nav-tabs>li.active>a i {
+    color: #fff !important;
+}
+.lp-user-profile #profile-nav .lp-profile-nav-tabs>li.active.wishlist>a::before, 
+.lp-user-profile #profile-nav .lp-profile-nav-tabs>li.active>a>i {
+    color: #fff !important;
+}
+.lp-user-profile #profile-nav .lp-profile-nav-tabs>li.wishlist>a::before, 
+.lp-user-profile #profile-nav .lp-profile-nav-tabs>li>a>i{
+	color: #000 !important;
+}
+.lp-user-profile .statistic-box .statistic-box__text, 
+.lp-user-profile .statistic-box .statistic-box__number{
+	color:#000 !important;
 }
