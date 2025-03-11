@@ -1415,15 +1415,14 @@ const Result = () => {
       }
     }
     const item = [...document.querySelectorAll('#popup-header .items-progress')][0];
-    const elCurriculumSections = document.querySelector('.curriculum-sections');
-    if (item && elCurriculumSections) {
+    if (item) {
       const totalItems = item.dataset.totalItems;
       const itemCompleted = item.querySelector('.items-completed');
       const elProgress = item.querySelector('.learn-press-progress__active');
       if (itemCompleted) {
         // const number = parseInt( itemCompleted.textContent );
 
-        const allItemCompleted = document.querySelectorAll('#popup-sidebar .course-curriculum .course-item.status-completed');
+        const allItemCompleted = document.querySelectorAll('#popup-sidebar .course-curriculum .course-item__status .completed');
         itemCompleted.textContent = parseInt(allItemCompleted.length);
 
         // Set progress

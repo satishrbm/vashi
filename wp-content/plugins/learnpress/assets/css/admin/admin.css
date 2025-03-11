@@ -6022,8 +6022,8 @@ body.lp-item-moving {
   display: none;
   margin: 0 5px;
   color: #444;
-  font-size: 0.8em;
   font-style: normal;
+  font-weight: normal;
   line-height: 1;
   vertical-align: baseline;
   cursor: pointer;
@@ -6459,7 +6459,7 @@ table.lp-material--table tr:nth-child(even) {
 
 @font-face {
   font-family: "lp-icon";
-  src: url("../../src/css/vendor/fonts/lp-icon/lp-icon.ttf?v3eoq3") format("truetype"), url("../../src/css/vendor/fonts/lp-icon//lp-icon.woff?v3eoq4") format("woff"), url("../../src/css/vendor/fonts/lp-icon//lp-icon.svg?v3eoq4#lp-icon") format("svg");
+  src: url("../../src/css/vendor/fonts/lp-icon/lp-icon.woff2?v=114") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: block;

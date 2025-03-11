@@ -1,30 +1,22 @@
-<?php
-
-function eduvibe_child_enqueue_styles() {
-	wp_enqueue_style( 'eduvibe-child-style', get_stylesheet_uri() );
+<?php 
+/* Child theme generated with WPS Child Theme Generator */
+            
+if ( ! function_exists( 'b7ectg_theme_enqueue_styles' ) ) {            
+    add_action( 'wp_enqueue_scripts', 'b7ectg_theme_enqueue_styles' );
+    
+    function b7ectg_theme_enqueue_styles() {
+        wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
+        wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( 'parent-style' ) );
+    }
 }
 
-add_action( 'wp_enqueue_scripts', 'eduvibe_child_enqueue_styles', 100 );
+function modify_edu_meta_content($content) {
+    // Replace "Students" with "People"
+    $content = str_replace('Students', 'People', $content);
 
-function replace_student_text_script() {
-    ?>
-    <script>
-    jQuery(document).ready(function($) {
-        function replaceStudentText() {
-            $('body').html(function(i, html) {
-                return html.replace(/Students/g, 'people');
-            });
-        }
+    // Add "Taken by " after the <i> icon using regex
+    $content = preg_replace('/(<i class="icon-account-circle-line"><\/i>)/', '$1 Taken by ', $content);
 
-        // Call the function on page load
-        replaceStudentText();
-
-        // Optional: Call the function again when AJAX content loads
-        $(document).on('ajaxComplete', function() {
-            replaceStudentText();
-        });
-    });
-    </script>
-    <?php
+    return $content;
 }
-add_action('wp_footer', 'replace_student_text_script');
+add_filter('the_content', 'modify_edu_meta_content');

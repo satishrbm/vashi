@@ -23,10 +23,12 @@ use LP_Course_JSON_Filter;
 use LP_Datetime;
 use LP_Helper;
 use LP_Lesson;
+use LP_Post_Type_Filter;
 use LP_Settings;
 use stdClass;
 use Throwable;
 use WP_Error;
+use WP_Post;
 
 class CourseModel {
 	/**
@@ -457,14 +459,39 @@ class CourseModel {
 	}
 
 	/**
+	 * Get section id of item
+	 *
+	 * @param int $item_id
+	 *
+	 * @return int
+	 * @since 4.2.8
+	 * @version 1.0.0
+	 */
+	public function get_section_of_item( int $item_id ): int {
+		$section_id = 0;
+
+		$section_items = $this->get_section_items();
+		foreach ( $section_items as $section ) {
+			foreach ( $section->items as $item ) {
+				if ( (int) $item->item_id === $item_id ) {
+					$section_id = $section->id;
+					break;
+				}
+			}
+		}
+
+		return (int) $section_id;
+	}
+
+	/**
 	 * Get course Evaluation type.
 	 *
 	 * @return string
 	 * @since 4.2.7.3
-	 * @version 1.0.0
+	 * @version 1.0.1
 	 */
 	public function get_evaluation_type(): string {
-		return (float) $this->get_meta_value_by_key( CoursePostModel::META_KEY_EVALUATION_TYPE, 'evaluate_lesson' );
+		return $this->get_meta_value_by_key( CoursePostModel::META_KEY_EVALUATION_TYPE, 'evaluate_lesson' );
 	}
 
 	/**
@@ -1110,7 +1137,7 @@ class CourseModel {
 	 *
 	 * @return mixed|false|null|WP_Post
 	 * @since v4.2.7.6
-	 * @version 1.0.0
+	 * @version 1.0.1
 	 */
 	public function get_item_model( int $item_id, string $item_type ) {
 		try {
@@ -1132,7 +1159,10 @@ class CourseModel {
 
 			// If not defined class, get post default
 			if ( ! $item ) {
-				$item = get_post( $item_id );
+				$filter            = new LP_Post_Type_Filter();
+				$filter->ID        = $item_id;
+				$filter->post_type = $item_type;
+				$item              = PostModel::get_item_model_from_db( $filter );
 			}
 		} catch ( Exception $e ) {
 			error_log( __METHOD__ . ': ' . $e->getMessage() );

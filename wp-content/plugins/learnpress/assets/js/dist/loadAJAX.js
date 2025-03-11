@@ -391,6 +391,9 @@ const lpAJAX = () => {
             });
           }
           const elTarget = element.querySelector('.lp-target');
+          if (!elTarget) {
+            return;
+          }
           const dataObj = JSON.parse(elTarget.dataset.send);
           const dataSend = {
             ...dataObj

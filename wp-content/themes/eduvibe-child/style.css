@@ -1,19 +1,14 @@
 /*
-Theme Name:   EduVibe Child
-Theme URI:    https://eduvibe.devsvibe.com/main/
-Author:       DevsVibe
-Author URI:   https://themeforest.net/user/devsvibe/portfolio
-Description:  EduVibe Child Theme For LMS and Education Purpose.
-Version:      1.0.0
-Template:     eduvibe
-License: GNU General Public License v2 or later
-License URI: LICENSE
-Text Domain:  eduvibe-child
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
-
-* If you are not familiar with Child Themes, you can read about it here:
-* http://codex.wordpress.org/Child_Themes
+Theme Name: eduvibe Child
+Theme URI:  https://www.wpserveur.net
+Author:     WPServeur
+Author URI: https://www.wpserveur.net
+Template:   eduvibe
+Version:    1.0
+License:    GNU General Public License v2 or later
 */
+			    
+/* CSS added with WPS Child Theme Generator */			    
 
 .eduvibe-single-course.course-style-1 .inner .thumbnail .wishlist-top-right{
 	display:none;
@@ -31,6 +26,9 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 .card-bottom .edu-meta{
 	display:block;
 } */
+.eduvibe-single-course.course-style-1 .card-bottom{
+	padding-top:10px !important;
+}
 .sec_Inspirations .infobox-content h2{
 	bottom: 0;
     position: absolute;
@@ -53,8 +51,13 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 	display:none;
 }
 .eduvibe-single-course.course-style-1 .inner .content .title{
+	font-size:16px !important;
 	margin-bottom: 10px !important;
     margin-top: 10px !important;
+	min-height:80px !important;
+}
+.edu-meta.meta-01 li{
+	font-size:12px !important;
 }
 ul.footer-navigation-menu li a::before{
 	display:none !important;
@@ -64,9 +67,6 @@ ul.footer-navigation-menu li a{
 }
 ul.footer-navigation-menu li{
 	margin-top: 12px !important;
-}
-.eduvibe-single-course.course-style-1 .inner .content .title{
-	font-size:18px !important;
 }
 .lp-user-profile{
 	padding-top: 15px !important;
