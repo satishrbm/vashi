@@ -98,3 +98,110 @@ ul.footer-navigation-menu li{
 .lp-user-profile .statistic-box .statistic-box__number{
 	color:#000 !important;
 }
+.eduvibe-header-area .main-navigation ul > li:hover > ul.eduvibe-dropdown-menu{
+    width: max-content !important;
+}
+.eduvibe-header-area .main-navigation ul > li > ul.eduvibe-dropdown-menu{
+    width: max-content !important;
+	border-bottom: unset !important;
+	border-radius:20px !important;
+}
+.eduvibe-header-area ul.eduvibe-navbar-nav > li.menu-item-has-children:hover > a:before, 
+.eduvibe-header-area ul li:not(.mega-menu) ul.eduvibe-dropdown-menu li.menu-item-has-children:hover:after, 
+.eduvibe-header-area ul.eduvibe-navbar-nav > li:hover > a:before, 
+.eduvibe-header-area ul.eduvibe-navbar-nav > li.active > a, 
+.eduvibe-header-area ul.eduvibe-navbar-nav .menu-item-has-children li:hover > a, 
+.eduvibe-header-area ul.eduvibe-navbar-nav > li:hover > a{
+	color:#FFC300 !important;
+}
+.eduvibe-header-area .main-navigation ul > li:hover > ul.eduvibe-dropdown-menu{
+	gap: 10px !important;
+	display: grid !important;
+}
+.is-form-style input.is-search-input{
+	background:transparent !important;
+	border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
+.is-search-icon{
+	background:transparent !important;
+	border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+	border: unset !important;
+}
+.elementor-shortcode .is-form-style input.is-search-input{
+    border: unset !important;
+}
+.is-search-form{
+	background: transparent;
+    border-radius: 20px;
+    border: 1px solid #eee;
+}
+.my_courses_btn .elementor-icon-list-icon{
+	display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+    width: 53px;
+    height: 53px;
+    border-radius: 50%;
+    background-color: rgb(245, 240, 235);
+}
+.my_courses_btn svg{
+	margin-right: 0 !important;
+}
+.eduvibe-slider-item .slick-arrow{
+	border: none;
+    border-radius: 50% !important;
+    background-color: #eee !important;
+	box-shadow: unset !important;
+	width: 45px !important;
+    height: 45px !important;
+}
+.eduvibe-archive-lp-courses .ri-arrow-left-s-line,
+.eduvibe-archive-lp-courses .icon-arrow-right-s-line-right{
+	color:#000 !important;
+}
+.eduvibe-slider-item .slick-arrow.slick-prev {
+    left: 46% !important;
+}
+.eduvibe-slider-item .slick-arrow.slick-next {
+    right: 46% !important;
+}
+.slick-prev, .slick-next{
+	bottom:-80px !important;
+	top:unset !important;
+}
+.learnpress label{
+	display:none !important;
+}
+.learnpress input{
+	border-radius: 20px !important;
+	background: transparent !important;
+	height: 50px !important;
+	margin-bottom: 15px !important;
+}
+.lp-user-profile .lp-content-area{
+	gap: 20px !important;
+}
+.learn-press-form-login, 
+.learn-press-form-register{
+	box-shadow:unset !important;
+}
+.woocommerce form .show-password-input::after, 
+.woocommerce-page form .show-password-input::after{
+	display:none !important;
+}
+.lp-password-input .lp-show-password-input{
+	top: 12px !important;
+}
+.learn-press-form p{
+	 font-size: 16px !important;
+    font-weight: 600 !important;
+    padding-top: 10px !important;
+}
+.learn-press-form p a{
+	color: #FFC300 !important;
+}
